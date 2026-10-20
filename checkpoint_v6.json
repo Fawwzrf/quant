@@ -1,0 +1,77 @@
+{
+  "accumulated_hours": 0.2501,
+  "updated_at": "2026-10-20 09:07:10 UTC",
+  "variants": {
+    "V6_STEPPED_BARBELL": {
+      "equity": 12.71,
+      "hwm": 12.73,
+      "max_dd": 0.0,
+      "tier": 1,
+      "wins": 1,
+      "losses": 1,
+      "gross_profit": 0.2334,
+      "gross_loss": 0.0244,
+      "consec_losses": 1,
+      "cooldown_until": 1792488646.6438565,
+      "positions": {},
+      "token_history": {
+        "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792487110.7604163,
+        "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792487146.6438565
+      },
+      "watchlist_count": 0
+    },
+    "V6_STEPPED_VORTEX": {
+      "equity": 12.71,
+      "hwm": 12.73,
+      "max_dd": 0.0,
+      "tier": 1,
+      "wins": 1,
+      "losses": 1,
+      "gross_profit": 0.2334,
+      "gross_loss": 0.0244,
+      "consec_losses": 1,
+      "cooldown_until": 1792488646.644256,
+      "positions": {},
+      "token_history": {
+        "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792487110.760735,
+        "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792487146.644256
+      },
+      "watchlist_count": 0
+    },
+    "V6_FRACTAL_FORTRESS": {
+      "equity": 13.1,
+      "hwm": 13.1,
+      "max_dd": 0.0,
+      "tier": 1,
+      "wins": 1,
+      "losses": 0,
+      "gross_profit": 0.5957,
+      "gross_loss": 0.0,
+      "consec_losses": 0,
+      "cooldown_until": 0.0,
+      "positions": {},
+      "token_history": {
+        "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114
+      },
+      "watchlist_count": 0
+    },
+    "V6_DYNAMIC_25_OLD": {
+      "equity": 12.71,
+      "hwm": 12.74,
+      "max_dd": 0.0,
+      "tier": 1,
+      "wins": 1,
+      "losses": 1,
+      "gross_profit": 0.2428,
+      "gross_loss": 0.0254,
+      "consec_losses": 1,
+      "cooldown_until": 1792488646.644356,
+      "positions": {},
+      "token_history": {
+        "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792487110.7608159,
+        "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792487146.644356
+      },
+      "watchlist_count": 0
+    }
+  }
+}
