@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 0.5034,
-  "updated_at": "2026-10-20 09:22:22 UTC",
+  "accumulated_hours": 0.7567,
+  "updated_at": "2026-10-20 09:37:34 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 12.71,
@@ -13,7 +13,22 @@
       "gross_loss": 0.0244,
       "consec_losses": 1,
       "cooldown_until": 1792488646.6438565,
-      "positions": {},
+      "positions": {
+        "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": {
+          "symbol": "earth",
+          "token_addr": "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump",
+          "pair_addr": "8WwFbce96foa9Nzg2N8zqRz9n9krK1cYSqtxKmrY8dng",
+          "entry_price": 0.0002207,
+          "highest_price": 0.0002431,
+          "entry_liq": 23920.59,
+          "initial_alloc": 3.0,
+          "remaining_alloc": 3.0,
+          "realized_pnl": 0.0,
+          "entry_time": 1792488826.9173503,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792487110.7604163,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792487146.6438565
@@ -31,7 +46,22 @@
       "gross_loss": 0.0244,
       "consec_losses": 1,
       "cooldown_until": 1792488646.644256,
-      "positions": {},
+      "positions": {
+        "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": {
+          "symbol": "earth",
+          "token_addr": "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump",
+          "pair_addr": "8WwFbce96foa9Nzg2N8zqRz9n9krK1cYSqtxKmrY8dng",
+          "entry_price": 0.0002207,
+          "highest_price": 0.0002431,
+          "entry_liq": 23920.59,
+          "initial_alloc": 3.0,
+          "remaining_alloc": 3.0,
+          "realized_pnl": 0.0,
+          "entry_time": 1792488826.9174798,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792487110.760735,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792487146.644256
@@ -67,7 +97,22 @@
       "gross_loss": 0.0254,
       "consec_losses": 1,
       "cooldown_until": 1792488646.644356,
-      "positions": {},
+      "positions": {
+        "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": {
+          "symbol": "earth",
+          "token_addr": "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump",
+          "pair_addr": "8WwFbce96foa9Nzg2N8zqRz9n9krK1cYSqtxKmrY8dng",
+          "entry_price": 0.0002207,
+          "highest_price": 0.0002431,
+          "entry_liq": 23920.59,
+          "initial_alloc": 3.18,
+          "remaining_alloc": 3.18,
+          "realized_pnl": 0.0,
+          "entry_time": 1792488826.9175448,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792487110.7608159,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792487146.644356
