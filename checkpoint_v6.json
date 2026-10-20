@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 2.0234,
-  "updated_at": "2026-10-20 10:53:34 UTC",
+  "accumulated_hours": 2.2768,
+  "updated_at": "2026-10-20 11:08:46 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 11.74,
@@ -13,7 +13,22 @@
       "gross_loss": 1.011,
       "consec_losses": 2,
       "cooldown_until": 1792493938.7483952,
-      "positions": {},
+      "positions": {
+        "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": {
+          "symbol": "aDOGymous",
+          "token_addr": "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump",
+          "pair_addr": "7ZKafTLoaC8L4KhNSwUiD8qcWCPRDQNDkPT1yNGduKc4",
+          "entry_price": 0.0002903,
+          "highest_price": 0.0003005,
+          "entry_liq": 47206.9,
+          "initial_alloc": 2.94,
+          "remaining_alloc": 2.94,
+          "realized_pnl": 0.0,
+          "entry_time": 1792494430.9614844,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792490338.7483952,
@@ -32,7 +47,22 @@
       "gross_loss": 1.011,
       "consec_losses": 2,
       "cooldown_until": 1792493938.7488916,
-      "positions": {},
+      "positions": {
+        "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": {
+          "symbol": "aDOGymous",
+          "token_addr": "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump",
+          "pair_addr": "7ZKafTLoaC8L4KhNSwUiD8qcWCPRDQNDkPT1yNGduKc4",
+          "entry_price": 0.0002903,
+          "highest_price": 0.0003005,
+          "entry_liq": 47206.9,
+          "initial_alloc": 2.94,
+          "remaining_alloc": 2.94,
+          "realized_pnl": 0.0,
+          "entry_time": 1792494430.9616048,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7083073,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792490338.7488916,
@@ -51,7 +81,22 @@
       "gross_loss": 0.8914,
       "consec_losses": 0,
       "cooldown_until": 1792492018.672331,
-      "positions": {},
+      "positions": {
+        "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": {
+          "symbol": "aDOGymous",
+          "token_addr": "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump",
+          "pair_addr": "7ZKafTLoaC8L4KhNSwUiD8qcWCPRDQNDkPT1yNGduKc4",
+          "entry_price": 0.0002903,
+          "highest_price": 0.0003005,
+          "entry_liq": 47206.9,
+          "initial_alloc": 3.0,
+          "remaining_alloc": 3.0,
+          "realized_pnl": 0.0,
+          "entry_time": 1792494430.9616992,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
         "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792487902.6698601,
@@ -72,7 +117,22 @@
       "gross_loss": 1.2334,
       "consec_losses": 2,
       "cooldown_until": 1792493938.7490427,
-      "positions": {},
+      "positions": {
+        "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": {
+          "symbol": "aDOGymous",
+          "token_addr": "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump",
+          "pair_addr": "7ZKafTLoaC8L4KhNSwUiD8qcWCPRDQNDkPT1yNGduKc4",
+          "entry_price": 0.0002903,
+          "highest_price": 0.0003005,
+          "entry_liq": 47206.9,
+          "initial_alloc": 2.88,
+          "remaining_alloc": 2.88,
+          "realized_pnl": 0.0,
+          "entry_time": 1792494430.9617677,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792490338.7490427,
