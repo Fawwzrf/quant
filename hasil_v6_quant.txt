@@ -2362,3 +2362,85 @@ V6_DYNAMIC_25_OLD      | $12.18     |     -2.6% |   7W/7  L  |   50.0%   | 0.89x
 🚀 [17:49:07] [V6_STEPPED_VORTEX   ] BELI TIMQ       ($0.000144) | Alokasi: $3.00 | Vortex Absorb (DPP 0.035 | Liq +6.5%)
 🚀 [17:49:07] [V6_FRACTAL_FORTRESS ] BELI TIMQ       ($0.000144) | Alokasi: $3.00 | Vortex Absorb (DPP 0.035 | Liq +6.5%)
 🚀 [17:49:07] [V6_DYNAMIC_25_OLD   ] BELI TIMQ       ($0.000144) | Alokasi: $3.04 | Vortex Absorb (DPP 0.035 | Liq +6.5%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 8.73 Jam | 2026-10-20 17:51:31 UTC (00:51 WIB)
+🌐 Sesi Aktif: S3_NEWYORK | SOL: $106.69 (m5: +0.1%, h1: +0.1%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_FRACTAL_FORTRESS    | $12.52     |     +0.2% |   6W/6  L  |   50.0%   | 1.01x         |   -2.1%  | T1 / 1Pos
+V6_STEPPED_BARBELL     | $12.32     |     -1.4% |   7W/7  L  |   50.0%   | 0.92x         |   -6.1%  | T1 / 1Pos
+V6_STEPPED_VORTEX      | $12.25     |     -2.0% |   7W/7  L  |   50.0%   | 0.89x         |   -6.1%  | T1 / 1Pos
+V6_DYNAMIC_25_OLD      | $12.18     |     -2.6% |   7W/7  L  |   50.0%   | 0.89x         |   -9.7%  | DYN / 1Pos
+========================================================================================================================
+
+🚀 [17:53:43] [V6_STEPPED_BARBELL  ] BELI Duke       ($0.000064) | Alokasi: $3.00 | Vortex Absorb (DPP 0.030 | Liq +8.2%)
+🚀 [17:53:43] [V6_STEPPED_VORTEX   ] BELI Duke       ($0.000064) | Alokasi: $3.00 | Vortex Absorb (DPP 0.030 | Liq +8.2%)
+🚀 [17:53:43] [V6_DYNAMIC_25_OLD   ] BELI Duke       ($0.000064) | Alokasi: $3.04 | Vortex Absorb (DPP 0.030 | Liq +8.2%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 8.78 Jam | 2026-10-20 17:54:31 UTC (00:54 WIB)
+🌐 Sesi Aktif: S3_NEWYORK | SOL: $106.65 (m5: -0.1%, h1: +0.3%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_FRACTAL_FORTRESS    | $12.52     |     +0.2% |   6W/6  L  |   50.0%   | 1.01x         |   -2.1%  | T1 / 1Pos
+V6_STEPPED_BARBELL     | $12.32     |     -1.4% |   7W/7  L  |   50.0%   | 0.92x         |   -6.1%  | T1 / 2Pos
+V6_STEPPED_VORTEX      | $12.25     |     -2.0% |   7W/7  L  |   50.0%   | 0.89x         |   -6.1%  | T1 / 2Pos
+V6_DYNAMIC_25_OLD      | $12.18     |     -2.6% |   7W/7  L  |   50.0%   | 0.89x         |   -9.7%  | DYN / 2Pos
+========================================================================================================================
+
+🛡️ [V6_STEPPED_BARBELL] 2x Loss Beruntun -> Cooldown 60 Menit Aktif
+🏁 [17:55:19] [V6_STEPPED_BARBELL  ] ❌ HARD STOP LOSS   | Duke       | PnL: -0.52 USD (-17.3%) | Ekuitas: $11.80 (-5.6%) | WR: 7W/8L (46%)
+🛡️ [V6_STEPPED_VORTEX] 2x Loss Beruntun -> Cooldown 60 Menit Aktif
+🏁 [17:55:19] [V6_STEPPED_VORTEX   ] ❌ HARD STOP LOSS   | Duke       | PnL: -0.52 USD (-17.3%) | Ekuitas: $11.73 (-6.2%) | WR: 7W/8L (46%)
+🛡️ [V6_DYNAMIC_25_OLD] 2x Loss Beruntun -> Cooldown 60 Menit Aktif
+🏁 [17:55:19] [V6_DYNAMIC_25_OLD   ] ❌ HARD STOP LOSS   | Duke       | PnL: -0.52 USD (-17.3%) | Ekuitas: $11.66 (-6.7%) | WR: 7W/8L (46%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 8.83 Jam | 2026-10-20 17:57:43 UTC (00:57 WIB)
+🌐 Sesi Aktif: S3_NEWYORK | SOL: $106.45 (m5: -0.1%, h1: -0.2%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_FRACTAL_FORTRESS    | $12.52     |     +0.2% |   6W/6  L  |   50.0%   | 1.01x         |   -2.1%  | T1 / 1Pos
+V6_STEPPED_BARBELL     | $11.80     |     -5.6% |   7W/8  L  |   46.7%   | 0.75x         |   -6.1%  | T1 / 1Pos
+V6_STEPPED_VORTEX      | $11.73     |     -6.2% |   7W/8  L  |   46.7%   | 0.72x         |   -6.2%  | T1 / 1Pos
+V6_DYNAMIC_25_OLD      | $11.66     |     -6.7% |   7W/8  L  |   46.7%   | 0.75x         |   -9.7%  | DYN / 1Pos
+========================================================================================================================
+
+🛡️ [V6_STEPPED_BARBELL] Circuit Breaker 180 Menit Aktif (Pasar Ekstrem)
+🏁 [17:58:43] [V6_STEPPED_BARBELL  ] ⏱️ TIME-STOP EXIT   | TIMQ       | PnL: -0.09 USD (-2.8%) | Ekuitas: $11.71 (-6.3%) | WR: 7W/9L (43%)
+🛡️ [V6_STEPPED_VORTEX] Circuit Breaker 180 Menit Aktif (Pasar Ekstrem)
+🏁 [17:58:43] [V6_STEPPED_VORTEX   ] ⏱️ TIME-STOP EXIT   | TIMQ       | PnL: -0.09 USD (-2.8%) | Ekuitas: $11.64 (-6.9%) | WR: 7W/9L (43%)
+🛡️ [V6_FRACTAL_FORTRESS] 2x Loss Beruntun -> Cooldown 60 Menit Aktif
+🏁 [17:58:43] [V6_FRACTAL_FORTRESS ] ⏱️ TIME-STOP EXIT   | TIMQ       | PnL: -0.09 USD (-2.8%) | Ekuitas: $12.43 (-0.6%) | WR: 6W/7L (46%)
+🛡️ [V6_DYNAMIC_25_OLD] Circuit Breaker 180 Menit Aktif (Pasar Ekstrem)
+🏁 [17:58:43] [V6_DYNAMIC_25_OLD   ] ⏱️ TIME-STOP EXIT   | TIMQ       | PnL: -0.09 USD (-2.8%) | Ekuitas: $11.57 (-7.4%) | WR: 7W/9L (43%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 8.88 Jam | 2026-10-20 18:00:43 UTC (01:00 WIB)
+🌐 Sesi Aktif: S3_NEWYORK | SOL: $106.72 (m5: +0.2%, h1: +0.3%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_FRACTAL_FORTRESS    | $12.43     |     -0.6% |   6W/7  L  |   46.2%   | 0.98x         |   -2.1%  | T1 / 0Pos
+V6_STEPPED_BARBELL     | $11.71     |     -6.3% |   7W/9  L  |   43.8%   | 0.72x         |   -6.3%  | T1 / 0Pos
+V6_STEPPED_VORTEX      | $11.64     |     -6.9% |   7W/9  L  |   43.8%   | 0.70x         |   -6.9%  | T1 / 0Pos
+V6_DYNAMIC_25_OLD      | $11.57     |     -7.4% |   7W/9  L  |   43.8%   | 0.73x         |   -9.7%  | DYN / 0Pos
+========================================================================================================================
+
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 8.94 Jam | 2026-10-20 18:03:55 UTC (01:03 WIB)
+🌐 Sesi Aktif: S3_NEWYORK | SOL: $106.40 (m5: -0.1%, h1: +0.1%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_FRACTAL_FORTRESS    | $12.43     |     -0.6% |   6W/7  L  |   46.2%   | 0.98x         |   -2.1%  | T1 / 0Pos
+V6_STEPPED_BARBELL     | $11.71     |     -6.3% |   7W/9  L  |   43.8%   | 0.72x         |   -6.3%  | T1 / 0Pos
+V6_STEPPED_VORTEX      | $11.64     |     -6.9% |   7W/9  L  |   43.8%   | 0.70x         |   -6.9%  | T1 / 0Pos
+V6_DYNAMIC_25_OLD      | $11.57     |     -7.4% |   7W/9  L  |   43.8%   | 0.73x         |   -9.7%  | DYN / 0Pos
+========================================================================================================================
+
