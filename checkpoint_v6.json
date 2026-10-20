@@ -1,72 +1,44 @@
 {
-  "accumulated_hours": 2.5301,
-  "updated_at": "2026-10-20 11:23:58 UTC",
+  "accumulated_hours": 2.7834,
+  "updated_at": "2026-10-20 11:39:10 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 12.12,
-      "hwm": 12.73,
+      "equity": 13.14,
+      "hwm": 13.14,
       "max_dd": -6.1,
       "tier": 1,
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
-      "gross_profit": 0.6386,
+      "gross_profit": 1.6587,
       "gross_loss": 1.011,
       "consec_losses": 0,
       "cooldown_until": 1792493938.7483952,
-      "positions": {
-        "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump": {
-          "symbol": "WORTHLESS",
-          "token_addr": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump",
-          "pair_addr": "HNJY1mVocFbPNxWtAnscCeqnR5t2aCkYfYUSKWjHEE3J",
-          "entry_price": 5.938e-05,
-          "highest_price": 9.781e-05,
-          "entry_liq": 21109.85,
-          "initial_alloc": 2.94,
-          "remaining_alloc": 0.588,
-          "realized_pnl": 0.7074,
-          "entry_time": 1792494875.0254385,
-          "tp1_hit": true,
-          "tp2_hit": true
-        }
-      },
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
-        "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792489174.6587234
+        "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792489174.6587234,
+        "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump": 1792495666.808861
       },
       "watchlist_count": 0
     },
     "V6_STEPPED_VORTEX": {
-      "equity": 12.11,
-      "hwm": 12.73,
+      "equity": 13.13,
+      "hwm": 13.13,
       "max_dd": -6.1,
       "tier": 1,
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
-      "gross_profit": 0.624,
+      "gross_profit": 1.6441,
       "gross_loss": 1.011,
       "consec_losses": 0,
       "cooldown_until": 1792493938.7488916,
-      "positions": {
-        "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump": {
-          "symbol": "WORTHLESS",
-          "token_addr": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump",
-          "pair_addr": "HNJY1mVocFbPNxWtAnscCeqnR5t2aCkYfYUSKWjHEE3J",
-          "entry_price": 5.938e-05,
-          "highest_price": 9.781e-05,
-          "entry_liq": 21109.85,
-          "initial_alloc": 2.94,
-          "remaining_alloc": 0.588,
-          "realized_pnl": 0.7074,
-          "entry_time": 1792494875.0255518,
-          "tp1_hit": true,
-          "tp2_hit": true
-        }
-      },
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7083073,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792495042.7568562,
-        "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792489174.6590312
+        "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792489174.6590312,
+        "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump": 1792495666.8092773
       },
       "watchlist_count": 0
     },
@@ -93,36 +65,22 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 11.9,
-      "hwm": 12.74,
+      "equity": 12.9,
+      "hwm": 12.9,
       "max_dd": -7.8,
       "tier": 1,
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
-      "gross_profit": 0.6414,
+      "gross_profit": 1.6407,
       "gross_loss": 1.2334,
       "consec_losses": 0,
       "cooldown_until": 1792493938.7490427,
-      "positions": {
-        "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump": {
-          "symbol": "WORTHLESS",
-          "token_addr": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump",
-          "pair_addr": "HNJY1mVocFbPNxWtAnscCeqnR5t2aCkYfYUSKWjHEE3J",
-          "entry_price": 5.938e-05,
-          "highest_price": 9.781e-05,
-          "entry_liq": 21109.85,
-          "initial_alloc": 2.88,
-          "remaining_alloc": 0.576,
-          "realized_pnl": 0.693,
-          "entry_time": 1792494875.0256443,
-          "tp1_hit": true,
-          "tp2_hit": true
-        }
-      },
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
-        "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792489174.6591122
+        "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792489174.6591122,
+        "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump": 1792495666.8093593
       },
       "watchlist_count": 0
     }
