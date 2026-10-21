@@ -1,15 +1,15 @@
 {
-  "accumulated_hours": 20.8087,
-  "updated_at": "2026-10-21 16:47:23 UTC",
+  "accumulated_hours": 21.0618,
+  "updated_at": "2026-10-21 17:02:34 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 11.4,
+      "equity": 11.6,
       "hwm": 13.14,
       "max_dd": -12.3,
       "tier": 1,
-      "wins": 12,
+      "wins": 13,
       "losses": 16,
-      "gross_profit": 3.2067,
+      "gross_profit": 3.4098,
       "gross_loss": 4.3027,
       "consec_losses": 0,
       "cooldown_until": 1792601494.8330958,
@@ -38,7 +38,8 @@
         "FrtbBAaSZksfh4oV46E7Pvb43QiiUmYLD3dcGS6gpump": 1792598506.7572854,
         "G6AjY7RnwoxU7UPUh5ru53Xgv9qGLKfR4va8nsJZpump": 1792599851.1360407,
         "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump": 1792599994.8330958,
-        "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm": 1792600174.6601593
+        "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm": 1792600174.6601593,
+        "Cf6tUsfyQSracZjuKNFMBAGPeskUpGYdjfM5Qn3Lpump": 1792601890.6994796
       },
       "watchlist_count": 0
     },
@@ -121,13 +122,13 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 10.61,
+      "equity": 10.97,
       "hwm": 12.9,
       "max_dd": -20.8,
       "tier": 1,
-      "wins": 12,
+      "wins": 13,
       "losses": 16,
-      "gross_profit": 4.8913,
+      "gross_profit": 5.2501,
       "gross_loss": 6.7743,
       "consec_losses": 0,
       "cooldown_until": 1792601494.8334887,
@@ -156,7 +157,8 @@
         "FrtbBAaSZksfh4oV46E7Pvb43QiiUmYLD3dcGS6gpump": 1792598506.7575665,
         "G6AjY7RnwoxU7UPUh5ru53Xgv9qGLKfR4va8nsJZpump": 1792599851.1364152,
         "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump": 1792599994.8334887,
-        "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm": 1792600174.660436
+        "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm": 1792600174.660436,
+        "Cf6tUsfyQSracZjuKNFMBAGPeskUpGYdjfM5Qn3Lpump": 1792601890.699743
       },
       "watchlist_count": 0
     }
