@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 13.3646,
-  "updated_at": "2026-10-21 03:55:12 UTC",
+  "accumulated_hours": 13.618,
+  "updated_at": "2026-10-21 04:10:24 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 11.24,
@@ -79,7 +79,22 @@
       "gross_loss": 3.2315,
       "consec_losses": 1,
       "cooldown_until": 1792555356.1215272,
-      "positions": {},
+      "positions": {
+        "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": {
+          "symbol": "KIMCHIBOSS",
+          "token_addr": "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
+          "pair_addr": "A8HS75tMWQSTJ2YHzaerJHEHkNa2QzNZNdf3CkhsAjRJ",
+          "entry_price": 0.0008979,
+          "highest_price": 0.0008979,
+          "entry_liq": 84644.79,
+          "initial_alloc": 1.5,
+          "remaining_alloc": 1.5,
+          "realized_pnl": 0.0,
+          "entry_time": 1792555788.4538465,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
         "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792487902.6698601,
