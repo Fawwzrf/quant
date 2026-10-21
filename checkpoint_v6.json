@@ -1,18 +1,18 @@
 {
-  "accumulated_hours": 21.9189,
-  "updated_at": "2026-10-21 23:19:29 UTC",
+  "accumulated_hours": 22.1722,
+  "updated_at": "2026-10-21 23:34:41 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 11.64,
+      "equity": 11.41,
       "hwm": 13.14,
       "max_dd": -12.3,
       "tier": 1,
-      "wins": 15,
-      "losses": 17,
-      "gross_profit": 3.6975,
-      "gross_loss": 4.548,
-      "consec_losses": 0,
-      "cooldown_until": 1792603990.6308098,
+      "wins": 16,
+      "losses": 18,
+      "gross_profit": 3.7071,
+      "gross_loss": 4.7902,
+      "consec_losses": 1,
+      "cooldown_until": 1792626941.550059,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
@@ -42,7 +42,9 @@
         "Cf6tUsfyQSracZjuKNFMBAGPeskUpGYdjfM5Qn3Lpump": 1792601890.6994796,
         "52ziiHpfjBoaDZvTYczFiXdpuUMGD9B5YSGz6Hxapump": 1792602202.61133,
         "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602490.6308098,
-        "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624361.568042
+        "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624361.568042,
+        "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1792625213.525499,
+        "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792625441.550059
       },
       "watchlist_count": 0
     },
@@ -128,16 +130,16 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 11.21,
+      "equity": 10.62,
       "hwm": 12.9,
       "max_dd": -20.8,
       "tier": 1,
-      "wins": 15,
-      "losses": 17,
-      "gross_profit": 5.9498,
-      "gross_loss": 7.237,
-      "consec_losses": 0,
-      "cooldown_until": 1792603990.6311285,
+      "wins": 16,
+      "losses": 18,
+      "gross_profit": 5.9676,
+      "gross_loss": 7.8447,
+      "consec_losses": 1,
+      "cooldown_until": 1792626941.5504959,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
@@ -167,7 +169,9 @@
         "Cf6tUsfyQSracZjuKNFMBAGPeskUpGYdjfM5Qn3Lpump": 1792601890.699743,
         "52ziiHpfjBoaDZvTYczFiXdpuUMGD9B5YSGz6Hxapump": 1792602202.6115825,
         "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602490.6311285,
-        "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624361.568426
+        "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624361.568426,
+        "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1792625213.5258777,
+        "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792625441.5504959
       },
       "watchlist_count": 0
     }
