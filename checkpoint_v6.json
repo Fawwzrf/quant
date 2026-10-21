@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 12.6046,
-  "updated_at": "2026-10-21 03:09:36 UTC",
+  "accumulated_hours": 12.858,
+  "updated_at": "2026-10-21 03:24:48 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 11.24,
@@ -79,7 +79,22 @@
       "gross_loss": 3.0225,
       "consec_losses": 2,
       "cooldown_until": 1792552944.0246797,
-      "positions": {},
+      "positions": {
+        "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump": {
+          "symbol": "Trencher",
+          "token_addr": "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump",
+          "pair_addr": "D2BgCgaU5gJpb9sKfjQ4USusrHt1K5izXhuJgoKE9UU6",
+          "entry_price": 0.0001959,
+          "highest_price": 0.000216,
+          "entry_liq": 38645.14,
+          "initial_alloc": 1.5,
+          "remaining_alloc": 1.5,
+          "realized_pnl": 0.0,
+          "entry_time": 1792552944.2348483,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
         "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792487902.6698601,
