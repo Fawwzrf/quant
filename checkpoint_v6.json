@@ -1,18 +1,18 @@
 {
-  "accumulated_hours": 11.8446,
-  "updated_at": "2026-10-21 02:24:00 UTC",
+  "accumulated_hours": 12.0979,
+  "updated_at": "2026-10-21 02:39:12 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 11.45,
+      "equity": 11.24,
       "hwm": 13.14,
-      "max_dd": -8.4,
+      "max_dd": -10.1,
       "tier": 1,
       "wins": 8,
-      "losses": 11,
+      "losses": 12,
       "gross_profit": 2.1444,
-      "gross_loss": 3.1782,
-      "consec_losses": 2,
-      "cooldown_until": 1792550016.0726075,
+      "gross_loss": 3.3907,
+      "consec_losses": 3,
+      "cooldown_until": 1792561020.0138824,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
@@ -30,21 +30,22 @@
         "5hvGRZsrfWqi2pMKE51KFKQR9zEFVyvXx2mhVkH7pump": 1792519123.1546361,
         "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792546164.0331862,
         "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792546308.0313942,
-        "BG2cn6Brpua2ik3R1HSxZtjNPbPK32mEk9PY7LSPpump": 1792546416.0726075
+        "BG2cn6Brpua2ik3R1HSxZtjNPbPK32mEk9PY7LSPpump": 1792546416.0726075,
+        "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": 1792550220.0138824
       },
       "watchlist_count": 0
     },
     "V6_STEPPED_VORTEX": {
-      "equity": 11.38,
+      "equity": 11.17,
       "hwm": 13.13,
-      "max_dd": -9.0,
+      "max_dd": -10.6,
       "tier": 1,
       "wins": 8,
-      "losses": 11,
+      "losses": 12,
       "gross_profit": 2.0716,
-      "gross_loss": 3.1782,
-      "consec_losses": 2,
-      "cooldown_until": 1792550016.0730207,
+      "gross_loss": 3.3907,
+      "consec_losses": 3,
+      "cooldown_until": 1792561020.0142426,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7083073,
@@ -62,7 +63,8 @@
         "5hvGRZsrfWqi2pMKE51KFKQR9zEFVyvXx2mhVkH7pump": 1792519123.1549659,
         "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792546164.0335383,
         "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792546308.0316641,
-        "BG2cn6Brpua2ik3R1HSxZtjNPbPK32mEk9PY7LSPpump": 1792546416.0730207
+        "BG2cn6Brpua2ik3R1HSxZtjNPbPK32mEk9PY7LSPpump": 1792546416.0730207,
+        "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": 1792550220.0142426
       },
       "watchlist_count": 0
     },
@@ -98,16 +100,16 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 10.93,
+      "equity": 10.41,
       "hwm": 12.9,
-      "max_dd": -12.6,
+      "max_dd": -16.7,
       "tier": 1,
       "wins": 8,
-      "losses": 11,
+      "losses": 12,
       "gross_profit": 2.7739,
-      "gross_loss": 4.3296,
-      "consec_losses": 2,
-      "cooldown_until": 1792550016.0731156,
+      "gross_loss": 4.8475,
+      "consec_losses": 3,
+      "cooldown_until": 1792561020.0143383,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
@@ -125,7 +127,8 @@
         "5hvGRZsrfWqi2pMKE51KFKQR9zEFVyvXx2mhVkH7pump": 1792519123.1550987,
         "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792546164.033623,
         "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792546308.0317001,
-        "BG2cn6Brpua2ik3R1HSxZtjNPbPK32mEk9PY7LSPpump": 1792546416.0731156
+        "BG2cn6Brpua2ik3R1HSxZtjNPbPK32mEk9PY7LSPpump": 1792546416.0731156,
+        "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": 1792550220.0143383
       },
       "watchlist_count": 0
     }
