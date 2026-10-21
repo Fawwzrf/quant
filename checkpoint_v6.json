@@ -1,17 +1,17 @@
 {
-  "accumulated_hours": 21.6688,
-  "updated_at": "2026-10-21 17:39:00 UTC",
+  "accumulated_hours": 21.9189,
+  "updated_at": "2026-10-21 23:19:29 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 11.49,
+      "equity": 11.64,
       "hwm": 13.14,
       "max_dd": -12.3,
       "tier": 1,
-      "wins": 14,
+      "wins": 15,
       "losses": 17,
-      "gross_profit": 3.5471,
+      "gross_profit": 3.6975,
       "gross_loss": 4.548,
-      "consec_losses": 1,
+      "consec_losses": 0,
       "cooldown_until": 1792603990.6308098,
       "positions": {},
       "token_history": {
@@ -41,21 +41,22 @@
         "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm": 1792600174.6601593,
         "Cf6tUsfyQSracZjuKNFMBAGPeskUpGYdjfM5Qn3Lpump": 1792601890.6994796,
         "52ziiHpfjBoaDZvTYczFiXdpuUMGD9B5YSGz6Hxapump": 1792602202.61133,
-        "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602490.6308098
+        "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602490.6308098,
+        "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624361.568042
       },
       "watchlist_count": 0
     },
     "V6_STEPPED_VORTEX": {
-      "equity": 10.36,
+      "equity": 10.15,
       "hwm": 13.13,
-      "max_dd": -17.1,
-      "tier": 1,
+      "max_dd": -18.8,
+      "tier": 0,
       "wins": 11,
-      "losses": 17,
+      "losses": 18,
       "gross_profit": 3.2448,
-      "gross_loss": 5.3863,
-      "consec_losses": 2,
-      "cooldown_until": 1792603990.6152368,
+      "gross_loss": 5.5931,
+      "consec_losses": 3,
+      "cooldown_until": 1792635341.561991,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7083073,
@@ -81,21 +82,22 @@
         "FrtbBAaSZksfh4oV46E7Pvb43QiiUmYLD3dcGS6gpump": 1792598506.757522,
         "G6AjY7RnwoxU7UPUh5ru53Xgv9qGLKfR4va8nsJZpump": 1792599851.13634,
         "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump": 1792599994.8334343,
-        "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm": 1792600390.6152368
+        "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm": 1792600390.6152368,
+        "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624541.561991
       },
       "watchlist_count": 0
     },
     "V6_FRACTAL_FORTRESS": {
-      "equity": 10.63,
+      "equity": 10.49,
       "hwm": 13.6,
-      "max_dd": -16.0,
+      "max_dd": -16.1,
       "tier": 0,
       "wins": 12,
-      "losses": 15,
+      "losses": 16,
       "gross_profit": 2.858,
-      "gross_loss": 4.7062,
-      "consec_losses": 1,
-      "cooldown_until": 1792603930.6136003,
+      "gross_loss": 4.85,
+      "consec_losses": 2,
+      "cooldown_until": 1792628045.5425684,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
@@ -120,20 +122,21 @@
         "tZPasooEK7iJALGUkCSBnMmviyXZtxHtJmXaw5Epump": 1792585114.4178796,
         "G6AjY7RnwoxU7UPUh5ru53Xgv9qGLKfR4va8nsJZpump": 1792599851.1363845,
         "Cf6tUsfyQSracZjuKNFMBAGPeskUpGYdjfM5Qn3Lpump": 1792601134.6785998,
-        "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602430.6136003
+        "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602430.6136003,
+        "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624445.5425684
       },
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 10.85,
+      "equity": 11.21,
       "hwm": 12.9,
       "max_dd": -20.8,
       "tier": 1,
-      "wins": 14,
+      "wins": 15,
       "losses": 17,
-      "gross_profit": 5.5859,
+      "gross_profit": 5.9498,
       "gross_loss": 7.237,
-      "consec_losses": 1,
+      "consec_losses": 0,
       "cooldown_until": 1792603990.6311285,
       "positions": {},
       "token_history": {
@@ -163,7 +166,8 @@
         "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm": 1792600174.660436,
         "Cf6tUsfyQSracZjuKNFMBAGPeskUpGYdjfM5Qn3Lpump": 1792601890.699743,
         "52ziiHpfjBoaDZvTYczFiXdpuUMGD9B5YSGz6Hxapump": 1792602202.6115825,
-        "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602490.6311285
+        "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602490.6311285,
+        "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624361.568426
       },
       "watchlist_count": 0
     }
