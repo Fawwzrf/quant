@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 14.8847,
-  "updated_at": "2026-10-21 05:26:24 UTC",
+  "accumulated_hours": 15.138,
+  "updated_at": "2026-10-21 05:41:36 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 11.24,
@@ -13,7 +13,36 @@
       "gross_loss": 3.3907,
       "consec_losses": 3,
       "cooldown_until": 1792561020.0138824,
-      "positions": {},
+      "positions": {
+        "y2z8q1zbWxS8a5aGrDeqyGCoWTdPGk7MsMuUA6Rpump": {
+          "symbol": "Kimchi",
+          "token_addr": "y2z8q1zbWxS8a5aGrDeqyGCoWTdPGk7MsMuUA6Rpump",
+          "pair_addr": "HFgaCds8TandLVMELRLqiXZVjTGtkhU4pYWC8sm9G21i",
+          "entry_price": 2.612e-05,
+          "highest_price": 3.573e-05,
+          "entry_liq": 12333.37,
+          "initial_alloc": 1.5,
+          "remaining_alloc": 0.6,
+          "realized_pnl": 0.1364,
+          "entry_time": 1792561020.322971,
+          "tp1_hit": true,
+          "tp2_hit": false
+        },
+        "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": {
+          "symbol": "Pokecity",
+          "token_addr": "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump",
+          "pair_addr": "13ah1XkrFTsXeaPdvVQn8giGpS3HJVXfVwq9qtAPSqxf",
+          "entry_price": 0.0008532,
+          "highest_price": 0.0008591,
+          "entry_liq": 80945.02,
+          "initial_alloc": 1.5,
+          "remaining_alloc": 1.5,
+          "realized_pnl": 0.0,
+          "entry_time": 1792561032.5105765,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
@@ -46,7 +75,36 @@
       "gross_loss": 3.3907,
       "consec_losses": 3,
       "cooldown_until": 1792561020.0142426,
-      "positions": {},
+      "positions": {
+        "y2z8q1zbWxS8a5aGrDeqyGCoWTdPGk7MsMuUA6Rpump": {
+          "symbol": "Kimchi",
+          "token_addr": "y2z8q1zbWxS8a5aGrDeqyGCoWTdPGk7MsMuUA6Rpump",
+          "pair_addr": "HFgaCds8TandLVMELRLqiXZVjTGtkhU4pYWC8sm9G21i",
+          "entry_price": 2.612e-05,
+          "highest_price": 3.573e-05,
+          "entry_liq": 12333.37,
+          "initial_alloc": 1.5,
+          "remaining_alloc": 0.6,
+          "realized_pnl": 0.256,
+          "entry_time": 1792561020.323085,
+          "tp1_hit": true,
+          "tp2_hit": false
+        },
+        "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": {
+          "symbol": "Pokecity",
+          "token_addr": "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump",
+          "pair_addr": "13ah1XkrFTsXeaPdvVQn8giGpS3HJVXfVwq9qtAPSqxf",
+          "entry_price": 0.0008532,
+          "highest_price": 0.0008591,
+          "entry_liq": 80945.02,
+          "initial_alloc": 1.5,
+          "remaining_alloc": 1.5,
+          "realized_pnl": 0.0,
+          "entry_time": 1792561032.5107107,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7083073,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792495042.7568562,
@@ -69,32 +127,17 @@
       "watchlist_count": 0
     },
     "V6_FRACTAL_FORTRESS": {
-      "equity": 11.8,
+      "equity": 11.58,
       "hwm": 13.6,
-      "max_dd": -6.9,
+      "max_dd": -7.4,
       "tier": 1,
       "wins": 10,
-      "losses": 11,
+      "losses": 12,
       "gross_profit": 2.5885,
-      "gross_loss": 3.2726,
-      "consec_losses": 0,
-      "cooldown_until": 1792559664.08265,
-      "positions": {
-        "7wY4rfVsUcNcwKcrLw6CHazzXw4bihcwP73ynj6jpump": {
-          "symbol": "ALON",
-          "token_addr": "7wY4rfVsUcNcwKcrLw6CHazzXw4bihcwP73ynj6jpump",
-          "pair_addr": "4JCBNsFaJjio4fSTpBD6GfMZPwydJHUpjy2sWMcEtoXK",
-          "entry_price": 0.0001177,
-          "highest_price": 0.0001177,
-          "entry_liq": 29239.56,
-          "initial_alloc": 1.5,
-          "remaining_alloc": 1.5,
-          "realized_pnl": 0.0,
-          "entry_time": 1792560348.4287324,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 3.488,
+      "consec_losses": 1,
+      "cooldown_until": 1792562052.099683,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
         "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792487902.6698601,
@@ -113,7 +156,8 @@
         "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": 1792549344.0246797,
         "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump": 1792553292.0219727,
         "3v83h8quvZFVF3pKGGDdFc2NsNArxnPqvP2fJ2z7pump": 1792553856.1215272,
-        "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": 1792560000.1767693
+        "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": 1792560000.1767693,
+        "7wY4rfVsUcNcwKcrLw6CHazzXw4bihcwP73ynj6jpump": 1792560552.099683
       },
       "watchlist_count": 0
     },
@@ -128,7 +172,36 @@
       "gross_loss": 4.8475,
       "consec_losses": 3,
       "cooldown_until": 1792561020.0143383,
-      "positions": {},
+      "positions": {
+        "y2z8q1zbWxS8a5aGrDeqyGCoWTdPGk7MsMuUA6Rpump": {
+          "symbol": "Kimchi",
+          "token_addr": "y2z8q1zbWxS8a5aGrDeqyGCoWTdPGk7MsMuUA6Rpump",
+          "pair_addr": "HFgaCds8TandLVMELRLqiXZVjTGtkhU4pYWC8sm9G21i",
+          "entry_price": 2.612e-05,
+          "highest_price": 3.573e-05,
+          "entry_liq": 12333.37,
+          "initial_alloc": 2.6,
+          "remaining_alloc": 1.04,
+          "realized_pnl": 0.2365,
+          "entry_time": 1792561020.3231273,
+          "tp1_hit": true,
+          "tp2_hit": false
+        },
+        "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": {
+          "symbol": "Pokecity",
+          "token_addr": "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump",
+          "pair_addr": "13ah1XkrFTsXeaPdvVQn8giGpS3HJVXfVwq9qtAPSqxf",
+          "entry_price": 0.0008532,
+          "highest_price": 0.0008591,
+          "entry_liq": 80945.02,
+          "initial_alloc": 2.6,
+          "remaining_alloc": 2.6,
+          "realized_pnl": 0.0,
+          "entry_time": 1792561032.5107512,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
