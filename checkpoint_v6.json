@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 13.618,
-  "updated_at": "2026-10-21 04:10:24 UTC",
+  "accumulated_hours": 13.8713,
+  "updated_at": "2026-10-21 04:25:36 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 11.24,
@@ -69,32 +69,17 @@
       "watchlist_count": 0
     },
     "V6_FRACTAL_FORTRESS": {
-      "equity": 11.68,
+      "equity": 11.64,
       "hwm": 13.6,
-      "max_dd": -6.6,
+      "max_dd": -6.9,
       "tier": 1,
       "wins": 9,
-      "losses": 10,
+      "losses": 11,
       "gross_profit": 2.4311,
-      "gross_loss": 3.2315,
-      "consec_losses": 1,
-      "cooldown_until": 1792555356.1215272,
-      "positions": {
-        "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": {
-          "symbol": "KIMCHIBOSS",
-          "token_addr": "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
-          "pair_addr": "A8HS75tMWQSTJ2YHzaerJHEHkNa2QzNZNdf3CkhsAjRJ",
-          "entry_price": 0.0008979,
-          "highest_price": 0.0008979,
-          "entry_liq": 84644.79,
-          "initial_alloc": 1.5,
-          "remaining_alloc": 1.5,
-          "realized_pnl": 0.0,
-          "entry_time": 1792555788.4538465,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 3.2726,
+      "consec_losses": 2,
+      "cooldown_until": 1792559664.08265,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
         "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792487902.6698601,
@@ -108,7 +93,7 @@
         "G6dHfpt5nD77RBNgoKSMkSuH8KFHQif3KTPge9A2pump": 1792516999.1183333,
         "5hvGRZsrfWqi2pMKE51KFKQR9zEFVyvXx2mhVkH7pump": 1792519123.155035,
         "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792546164.0335913,
-        "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792546715.9636116,
+        "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792556064.08265,
         "D6JPhhDzCecig895drexKKn5H236EF3vJKgvWK6gpump": 1792547388.0105827,
         "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": 1792549344.0246797,
         "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump": 1792553292.0219727,
