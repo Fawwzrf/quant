@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 14.6313,
-  "updated_at": "2026-10-21 05:11:12 UTC",
+  "accumulated_hours": 14.8847,
+  "updated_at": "2026-10-21 05:26:24 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 11.24,
@@ -69,17 +69,32 @@
       "watchlist_count": 0
     },
     "V6_FRACTAL_FORTRESS": {
-      "equity": 11.64,
+      "equity": 11.8,
       "hwm": 13.6,
       "max_dd": -6.9,
       "tier": 1,
-      "wins": 9,
+      "wins": 10,
       "losses": 11,
-      "gross_profit": 2.4311,
+      "gross_profit": 2.5885,
       "gross_loss": 3.2726,
-      "consec_losses": 2,
+      "consec_losses": 0,
       "cooldown_until": 1792559664.08265,
-      "positions": {},
+      "positions": {
+        "7wY4rfVsUcNcwKcrLw6CHazzXw4bihcwP73ynj6jpump": {
+          "symbol": "ALON",
+          "token_addr": "7wY4rfVsUcNcwKcrLw6CHazzXw4bihcwP73ynj6jpump",
+          "pair_addr": "4JCBNsFaJjio4fSTpBD6GfMZPwydJHUpjy2sWMcEtoXK",
+          "entry_price": 0.0001177,
+          "highest_price": 0.0001177,
+          "entry_liq": 29239.56,
+          "initial_alloc": 1.5,
+          "remaining_alloc": 1.5,
+          "realized_pnl": 0.0,
+          "entry_time": 1792560348.4287324,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
         "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792487902.6698601,
@@ -97,7 +112,8 @@
         "D6JPhhDzCecig895drexKKn5H236EF3vJKgvWK6gpump": 1792547388.0105827,
         "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": 1792549344.0246797,
         "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump": 1792553292.0219727,
-        "3v83h8quvZFVF3pKGGDdFc2NsNArxnPqvP2fJ2z7pump": 1792553856.1215272
+        "3v83h8quvZFVF3pKGGDdFc2NsNArxnPqvP2fJ2z7pump": 1792553856.1215272,
+        "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": 1792560000.1767693
       },
       "watchlist_count": 0
     },
