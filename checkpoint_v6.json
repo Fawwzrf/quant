@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 11.0847,
-  "updated_at": "2026-10-21 01:38:24 UTC",
+  "accumulated_hours": 11.338,
+  "updated_at": "2026-10-21 01:53:36 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 11.45,
@@ -67,32 +67,17 @@
       "watchlist_count": 0
     },
     "V6_FRACTAL_FORTRESS": {
-      "equity": 12.55,
+      "equity": 11.89,
       "hwm": 13.6,
-      "max_dd": -2.1,
+      "max_dd": -4.9,
       "tier": 1,
-      "wins": 7,
-      "losses": 7,
-      "gross_profit": 2.4121,
-      "gross_loss": 2.3441,
-      "consec_losses": 0,
-      "cooldown_until": 1792522723.155035,
-      "positions": {
-        "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": {
-          "symbol": "KIMCHIBOSS",
-          "token_addr": "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
-          "pair_addr": "A8HS75tMWQSTJ2YHzaerJHEHkNa2QzNZNdf3CkhsAjRJ",
-          "entry_price": 0.0007556,
-          "highest_price": 0.0007655,
-          "entry_liq": 76491.91,
-          "initial_alloc": 3.0,
-          "remaining_alloc": 3.0,
-          "realized_pnl": 0.0,
-          "entry_time": 1792546440.3564372,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "wins": 8,
+      "losses": 8,
+      "gross_profit": 2.4196,
+      "gross_loss": 3.0135,
+      "consec_losses": 1,
+      "cooldown_until": 1792548888.0105827,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
         "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792487902.6698601,
@@ -105,7 +90,9 @@
         "7gUDvf45et6627atavR45Md4BjgYqJHMZe9EPqeR9Sya": 1792515547.1809485,
         "G6dHfpt5nD77RBNgoKSMkSuH8KFHQif3KTPge9A2pump": 1792516999.1183333,
         "5hvGRZsrfWqi2pMKE51KFKQR9zEFVyvXx2mhVkH7pump": 1792519123.155035,
-        "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792546164.0335913
+        "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792546164.0335913,
+        "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792546715.9636116,
+        "D6JPhhDzCecig895drexKKn5H236EF3vJKgvWK6gpump": 1792547388.0105827
       },
       "watchlist_count": 0
     },
