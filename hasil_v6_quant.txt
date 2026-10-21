@@ -2913,3 +2913,102 @@ V6_DYNAMIC_25_OLD      | $11.57     |     -7.4% |   7W/9  L  |   43.8%   | 0.73x
 ========================================================================================================================
 
 🔄 [ESTAFET SESI SEMPURNA] State berhasil di-push ke GitHub, siap dilanjutkan sesi berikutnya!
+
+♻️ [CHECKPOINT V6 LOADED] Melanjutkan sesi secara akurat (Durasi Akumulasi: 10.83 Jam)
+🦅 BOT QUANT V6.0 AKTIF (Stepped $3->$6->$12 + CPPI HWM Floor + Barbell Fractal-Vortex)
+🚀 [01:23:23] [V6_STEPPED_BARBELL  ] BELI KIMCHI     ($0.011480) | Alokasi: $1.50 | Vortex Absorb (DPP 0.043 | Liq +15.1%)
+🚀 [01:23:23] [V6_STEPPED_VORTEX   ] BELI KIMCHI     ($0.011480) | Alokasi: $1.50 | Vortex Absorb (DPP 0.043 | Liq +15.1%)
+🚀 [01:23:23] [V6_FRACTAL_FORTRESS ] BELI KIMCHI     ($0.011480) | Alokasi: $1.50 | Vortex Absorb (DPP 0.043 | Liq +15.1%)
+🚀 [01:23:23] [V6_DYNAMIC_25_OLD   ] BELI KIMCHI     ($0.011480) | Alokasi: $2.89 | Vortex Absorb (DPP 0.043 | Liq +15.1%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 10.83 Jam | 2026-10-21 01:23:24 UTC (08:23 WIB)
+🌐 Sesi Aktif: S1_ASIA | SOL: $106.35 (m5: +0.1%, h1: -0.3%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_FRACTAL_FORTRESS    | $12.43     |     -0.6% |   6W/7  L  |   46.2%   | 0.98x         |   -2.1%  | T1 / 1Pos
+V6_STEPPED_BARBELL     | $11.71     |     -6.3% |   7W/9  L  |   43.8%   | 0.72x         |   -6.3%  | T1 / 1Pos
+V6_STEPPED_VORTEX      | $11.64     |     -6.9% |   7W/9  L  |   43.8%   | 0.70x         |   -6.9%  | T1 / 1Pos
+V6_DYNAMIC_25_OLD      | $11.57     |     -7.4% |   7W/9  L  |   43.8%   | 0.73x         |   -9.7%  | DYN / 1Pos
+========================================================================================================================
+
+🚀 [01:23:59] [V6_STEPPED_BARBELL  ] BELI KIMCHIBOSS ($0.000821) | Alokasi: $1.50 | Vortex Absorb (DPP 0.031 | Liq +20.7%)
+🚀 [01:23:59] [V6_STEPPED_VORTEX   ] BELI KIMCHIBOSS ($0.000821) | Alokasi: $1.50 | Vortex Absorb (DPP 0.031 | Liq +20.7%)
+🚀 [01:23:59] [V6_DYNAMIC_25_OLD   ] BELI KIMCHIBOSS ($0.000821) | Alokasi: $2.89 | Vortex Absorb (DPP 0.031 | Liq +20.7%)
+💵 [V6_FRACTAL_FORTRESS ] TP-1 (+14.5%) pada KIMCHI     | Cair: +$1.12
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 10.88 Jam | 2026-10-21 01:26:24 UTC (08:26 WIB)
+🌐 Sesi Aktif: S1_ASIA | SOL: $106.40 (m5: +0.1%, h1: -0.2%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_FRACTAL_FORTRESS    | $12.43     |     -0.6% |   6W/7  L  |   46.2%   | 0.98x         |   -2.1%  | T1 / 1Pos
+V6_STEPPED_BARBELL     | $11.71     |     -6.3% |   7W/9  L  |   43.8%   | 0.72x         |   -6.3%  | T1 / 2Pos
+V6_STEPPED_VORTEX      | $11.64     |     -6.9% |   7W/9  L  |   43.8%   | 0.70x         |   -6.9%  | T1 / 2Pos
+V6_DYNAMIC_25_OLD      | $11.57     |     -7.4% |   7W/9  L  |   43.8%   | 0.73x         |   -9.7%  | DYN / 2Pos
+========================================================================================================================
+
+💵 [V6_STEPPED_BARBELL  ] TP-1 (+15.6%) pada KIMCHI     | Cair: +$1.04
+💵 [V6_STEPPED_VORTEX   ] TP-1 (+15.6%) pada KIMCHI     | Cair: +$1.04
+💵 [V6_DYNAMIC_25_OLD   ] TP-1 (+15.6%) pada KIMCHI     | Cair: +$2.00
+🏁 [01:29:23] [V6_STEPPED_BARBELL  ] 🛡️ BREAKEVEN PROFIT | KIMCHI     | PnL: +0.12 USD (+8.1%) | Ekuitas: $11.83 (-5.4%) | WR: 8W/9L (47%)
+🏁 [01:29:23] [V6_STEPPED_VORTEX   ] 🛡️ BREAKEVEN PROFIT | KIMCHI     | PnL: +0.12 USD (+8.1%) | Ekuitas: $11.76 (-5.9%) | WR: 8W/9L (47%)
+🏁 [01:29:23] [V6_FRACTAL_FORTRESS ] 🛡️ BREAKEVEN PROFIT | KIMCHI     | PnL: +0.12 USD (+8.3%) | Ekuitas: $12.55 (+0.4%) | WR: 7W/7L (50%)
+🏁 [01:29:23] [V6_DYNAMIC_25_OLD   ] 🛡️ BREAKEVEN PROFIT | KIMCHI     | PnL: +0.23 USD (+8.1%) | Ekuitas: $11.80 (-5.6%) | WR: 8W/9L (47%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 10.93 Jam | 2026-10-21 01:29:24 UTC (08:29 WIB)
+🌐 Sesi Aktif: S1_ASIA | SOL: $106.52 (m5: +0.1%, h1: -0.2%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_FRACTAL_FORTRESS    | $12.55     |     +0.4% |   7W/7  L  |   50.0%   | 1.03x         |   -2.1%  | T1 / 0Pos
+V6_STEPPED_BARBELL     | $11.83     |     -5.4% |   8W/9  L  |   47.1%   | 0.77x         |   -6.3%  | T1 / 1Pos
+V6_DYNAMIC_25_OLD      | $11.80     |     -5.6% |   8W/9  L  |   47.1%   | 0.80x         |   -9.7%  | DYN / 1Pos
+V6_STEPPED_VORTEX      | $11.76     |     -5.9% |   8W/9  L  |   47.1%   | 0.74x         |   -6.9%  | T1 / 1Pos
+========================================================================================================================
+
+🚀 [01:29:59] [V6_STEPPED_BARBELL  ] BELI umi        ($0.000348) | Alokasi: $1.12 | Vortex Absorb (DPP 0.034 | Liq +3.9%)
+🚀 [01:29:59] [V6_STEPPED_VORTEX   ] BELI umi        ($0.000348) | Alokasi: $1.12 | Vortex Absorb (DPP 0.034 | Liq +3.9%)
+🚀 [01:29:59] [V6_DYNAMIC_25_OLD   ] BELI umi        ($0.000348) | Alokasi: $2.95 | Vortex Absorb (DPP 0.034 | Liq +3.9%)
+🛡️ [V6_STEPPED_BARBELL] Mengaktifkan Cooldown 25 Menit (Proteksi Pasar Buruk)
+🏁 [01:31:47] [V6_STEPPED_BARBELL  ] ❌ HARD STOP LOSS   | KIMCHIBOSS | PnL: -0.21 USD (-14.1%) | Ekuitas: $11.62 (-7.0%) | WR: 8W/10L (44%)
+🛡️ [V6_STEPPED_VORTEX] Mengaktifkan Cooldown 25 Menit (Proteksi Pasar Buruk)
+🏁 [01:31:47] [V6_STEPPED_VORTEX   ] ❌ HARD STOP LOSS   | KIMCHIBOSS | PnL: -0.21 USD (-14.1%) | Ekuitas: $11.55 (-7.6%) | WR: 8W/10L (44%)
+🛡️ [V6_DYNAMIC_25_OLD] Mengaktifkan Cooldown 25 Menit (Proteksi Pasar Buruk)
+🏁 [01:31:47] [V6_DYNAMIC_25_OLD   ] ❌ HARD STOP LOSS   | KIMCHIBOSS | PnL: -0.41 USD (-14.1%) | Ekuitas: $11.39 (-8.9%) | WR: 8W/10L (44%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 10.98 Jam | 2026-10-21 01:32:24 UTC (08:32 WIB)
+🌐 Sesi Aktif: S1_ASIA | SOL: $106.53 (m5: +0.0%, h1: -0.2%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_FRACTAL_FORTRESS    | $12.55     |     +0.4% |   7W/7  L  |   50.0%   | 1.03x         |   -2.1%  | T1 / 0Pos
+V6_STEPPED_BARBELL     | $11.62     |     -7.0% |   8W/10 L  |   44.4%   | 0.71x         |   -7.0%  | T1 / 1Pos
+V6_STEPPED_VORTEX      | $11.55     |     -7.6% |   8W/10 L  |   44.4%   | 0.69x         |   -7.6%  | T1 / 1Pos
+V6_DYNAMIC_25_OLD      | $11.39     |     -8.9% |   8W/10 L  |   44.4%   | 0.72x         |   -9.7%  | DYN / 1Pos
+========================================================================================================================
+
+🛡️ [V6_STEPPED_BARBELL] 2x Loss Beruntun -> Cooldown 60 Menit Aktif
+🏁 [01:33:35] [V6_STEPPED_BARBELL  ] ❌ HARD STOP LOSS   | umi        | PnL: -0.17 USD (-15.6%) | Ekuitas: $11.45 (-8.4%) | WR: 8W/11L (42%)
+🛡️ [V6_STEPPED_VORTEX] 2x Loss Beruntun -> Cooldown 60 Menit Aktif
+🏁 [01:33:35] [V6_STEPPED_VORTEX   ] ❌ HARD STOP LOSS   | umi        | PnL: -0.17 USD (-15.6%) | Ekuitas: $11.38 (-9.0%) | WR: 8W/11L (42%)
+🛡️ [V6_DYNAMIC_25_OLD] 2x Loss Beruntun -> Cooldown 60 Menit Aktif
+🏁 [01:33:35] [V6_DYNAMIC_25_OLD   ] ❌ HARD STOP LOSS   | umi        | PnL: -0.46 USD (-15.6%) | Ekuitas: $10.93 (-12.6%) | WR: 8W/11L (42%)
+🚀 [01:33:59] [V6_FRACTAL_FORTRESS ] BELI KIMCHIBOSS ($0.000756) | Alokasi: $3.00 | Vortex Absorb (DPP 0.020 | Liq +17.1%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 11.04 Jam | 2026-10-21 01:35:36 UTC (08:35 WIB)
+🌐 Sesi Aktif: S1_ASIA | SOL: $106.62 (m5: +0.1%, h1: -0.1%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_FRACTAL_FORTRESS    | $12.55     |     +0.4% |   7W/7  L  |   50.0%   | 1.03x         |   -2.1%  | T1 / 1Pos
+V6_STEPPED_BARBELL     | $11.45     |     -8.4% |   8W/11 L  |   42.1%   | 0.67x         |   -8.4%  | T1 / 0Pos
+V6_STEPPED_VORTEX      | $11.38     |     -9.0% |   8W/11 L  |   42.1%   | 0.65x         |   -9.0%  | T1 / 0Pos
+V6_DYNAMIC_25_OLD      | $10.93     |    -12.6% |   8W/11 L  |   42.1%   | 0.64x         |  -12.6%  | DYN / 0Pos
+========================================================================================================================
+
