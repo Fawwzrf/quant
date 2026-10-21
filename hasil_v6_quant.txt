@@ -5427,3 +5427,96 @@ V6_DYNAMIC_25_OLD      | $10.87     |    -13.0% |  10W/15 L  |   40.0%   | 0.72x
 V6_FRACTAL_FORTRESS    | $10.50     |    -16.0% |  10W/14 L  |   41.7%   | 0.57x         |  -16.0%  | T1 / 0Pos
 ========================================================================================================================
 
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 20.33 Jam | 2026-10-21 16:18:34 UTC (23:18 WIB)
+🌐 Sesi Aktif: S3_NEWYORK | SOL: $108.46 (m5: +0.1%, h1: +0.7%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_STEPPED_VORTEX      | $11.49     |     -8.1% |  10W/15 L  |   40.0%   | 0.74x         |  -11.9%  | T1 / 0Pos
+V6_STEPPED_BARBELL     | $11.40     |     -8.8% |  10W/15 L  |   40.0%   | 0.72x         |  -12.3%  | T1 / 0Pos
+V6_DYNAMIC_25_OLD      | $10.87     |    -13.0% |  10W/15 L  |   40.0%   | 0.72x         |  -20.8%  | DYN / 0Pos
+V6_FRACTAL_FORTRESS    | $10.50     |    -16.0% |  10W/14 L  |   41.7%   | 0.57x         |  -16.0%  | T1 / 0Pos
+========================================================================================================================
+
+🚀 [16:21:22] [V6_STEPPED_BARBELL  ] BELI Ser        ($0.000100) | Alokasi: $1.50 | Vortex Absorb (DPP 0.026 | Liq +7.3%)
+🚀 [16:21:22] [V6_STEPPED_VORTEX   ] BELI Ser        ($0.000100) | Alokasi: $1.50 | Vortex Absorb (DPP 0.026 | Liq +7.3%)
+🚀 [16:21:22] [V6_FRACTAL_FORTRESS ] BELI Ser        ($0.000100) | Alokasi: $1.05 | Vortex Absorb (DPP 0.026 | Liq +7.3%)
+🚀 [16:21:22] [V6_DYNAMIC_25_OLD   ] BELI Ser        ($0.000100) | Alokasi: $2.72 | Vortex Absorb (DPP 0.026 | Liq +7.3%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 20.38 Jam | 2026-10-21 16:21:46 UTC (23:21 WIB)
+🌐 Sesi Aktif: S3_NEWYORK | SOL: $108.55 (m5: +0.2%, h1: +0.7%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_STEPPED_VORTEX      | $11.49     |     -8.1% |  10W/15 L  |   40.0%   | 0.74x         |  -11.9%  | T1 / 1Pos
+V6_STEPPED_BARBELL     | $11.40     |     -8.8% |  10W/15 L  |   40.0%   | 0.72x         |  -12.3%  | T1 / 1Pos
+V6_DYNAMIC_25_OLD      | $10.87     |    -13.0% |  10W/15 L  |   40.0%   | 0.72x         |  -20.8%  | DYN / 1Pos
+V6_FRACTAL_FORTRESS    | $10.50     |    -16.0% |  10W/14 L  |   41.7%   | 0.57x         |  -16.0%  | T0 / 1Pos
+========================================================================================================================
+
+💵 [V6_STEPPED_BARBELL  ] TP-1 (+27.7%) pada Ser        | Cair: +$1.15
+💵 [V6_STEPPED_VORTEX   ] TP-1 (+27.7%) pada Ser        | Cair: +$1.15
+💵 [V6_FRACTAL_FORTRESS ] TP-1 (+27.7%) pada Ser        | Cair: +$0.87
+💵 [V6_DYNAMIC_25_OLD   ] TP-1 (+27.7%) pada Ser        | Cair: +$2.08
+🏁 [16:24:11] [V6_STEPPED_BARBELL  ] 🎯 TRAILING PROFIT  | Ser        | PnL: +0.33 USD (+22.2%) | Ekuitas: $11.73 (-6.2%) | WR: 11W/15L (42%)
+🏁 [16:24:11] [V6_STEPPED_VORTEX   ] 🎯 TRAILING PROFIT  | Ser        | PnL: +0.33 USD (+22.2%) | Ekuitas: $11.82 (-5.4%) | WR: 11W/15L (42%)
+🏁 [16:24:11] [V6_FRACTAL_FORTRESS ] 🎯 TRAILING PROFIT  | Ser        | PnL: +0.24 USD (+22.9%) | Ekuitas: $10.74 (-14.1%) | WR: 11W/14L (44%)
+🏁 [16:24:11] [V6_DYNAMIC_25_OLD   ] 🎯 TRAILING PROFIT  | Ser        | PnL: +0.60 USD (+22.2%) | Ekuitas: $11.47 (-8.2%) | WR: 11W/15L (42%)
+🚀 [16:24:11] [V6_STEPPED_BARBELL  ] BELI DUSTY      ($0.000232) | Alokasi: $1.12 | Vortex Absorb (DPP 0.082 | Liq +35.0%)
+🚀 [16:24:11] [V6_STEPPED_VORTEX   ] BELI DUSTY      ($0.000232) | Alokasi: $1.12 | Vortex Absorb (DPP 0.082 | Liq +35.0%)
+🚀 [16:24:11] [V6_DYNAMIC_25_OLD   ] BELI DUSTY      ($0.000232) | Alokasi: $2.87 | Vortex Absorb (DPP 0.082 | Liq +35.0%)
+🚀 [16:24:46] [V6_STEPPED_BARBELL  ] BELI QUARTZ     ($0.000047) | Alokasi: $1.12 | Vortex Absorb (DPP 0.087 | Liq +14.6%)
+🚀 [16:24:46] [V6_STEPPED_VORTEX   ] BELI QUARTZ     ($0.000047) | Alokasi: $1.12 | Vortex Absorb (DPP 0.087 | Liq +14.6%)
+🚀 [16:24:46] [V6_DYNAMIC_25_OLD   ] BELI QUARTZ     ($0.000047) | Alokasi: $2.87 | Vortex Absorb (DPP 0.087 | Liq +14.6%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 20.43 Jam | 2026-10-21 16:24:47 UTC (23:24 WIB)
+🌐 Sesi Aktif: S3_NEWYORK | SOL: $108.50 (m5: -0.0%, h1: +0.3%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_STEPPED_VORTEX      | $11.82     |     -5.4% |  11W/15 L  |   42.3%   | 0.83x         |  -11.9%  | T1 / 2Pos
+V6_STEPPED_BARBELL     | $11.73     |     -6.2% |  11W/15 L  |   42.3%   | 0.81x         |  -12.3%  | T1 / 2Pos
+V6_DYNAMIC_25_OLD      | $11.47     |     -8.2% |  11W/15 L  |   42.3%   | 0.82x         |  -20.8%  | DYN / 2Pos
+V6_FRACTAL_FORTRESS    | $10.74     |    -14.1% |  11W/14 L  |   44.0%   | 0.62x         |  -16.0%  | T0 / 0Pos
+========================================================================================================================
+
+🛡️ [V6_STEPPED_BARBELL] Mengaktifkan Cooldown 25 Menit (Proteksi Pasar Buruk)
+🏁 [16:26:34] [V6_STEPPED_BARBELL  ] 🚨 ANTI-RUG EXIT    | QUARTZ     | PnL: -0.38 USD (-34.2%) | Ekuitas: $11.35 (-9.2%) | WR: 11W/16L (40%)
+🛡️ [V6_STEPPED_VORTEX] Mengaktifkan Cooldown 25 Menit (Proteksi Pasar Buruk)
+🏁 [16:26:34] [V6_STEPPED_VORTEX   ] 🚨 ANTI-RUG EXIT    | QUARTZ     | PnL: -0.38 USD (-34.2%) | Ekuitas: $11.44 (-8.5%) | WR: 11W/16L (40%)
+🛡️ [V6_DYNAMIC_25_OLD] Mengaktifkan Cooldown 25 Menit (Proteksi Pasar Buruk)
+🏁 [16:26:34] [V6_DYNAMIC_25_OLD   ] 🚨 ANTI-RUG EXIT    | QUARTZ     | PnL: -0.98 USD (-34.2%) | Ekuitas: $10.49 (-16.1%) | WR: 11W/16L (40%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 20.48 Jam | 2026-10-21 16:27:47 UTC (23:27 WIB)
+🌐 Sesi Aktif: S3_NEWYORK | SOL: $108.41 (m5: -0.1%, h1: -0.1%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_STEPPED_VORTEX      | $11.44     |     -8.5% |  11W/16 L  |   40.7%   | 0.75x         |  -11.9%  | T1 / 1Pos
+V6_STEPPED_BARBELL     | $11.35     |     -9.2% |  11W/16 L  |   40.7%   | 0.73x         |  -12.3%  | T1 / 1Pos
+V6_FRACTAL_FORTRESS    | $10.74     |    -14.1% |  11W/14 L  |   44.0%   | 0.62x         |  -16.0%  | T0 / 0Pos
+V6_DYNAMIC_25_OLD      | $10.49     |    -16.1% |  11W/16 L  |   40.7%   | 0.70x         |  -20.8%  | DYN / 1Pos
+========================================================================================================================
+
+💵 [V6_STEPPED_BARBELL  ] TP-1 (+15.5%) pada DUSTY      | Cair: +$0.78
+💵 [V6_DYNAMIC_25_OLD   ] TP-1 (+15.5%) pada DUSTY      | Cair: +$1.99
+🏁 [16:29:34] [V6_STEPPED_BARBELL  ] 🛡️ BREAKEVEN PROFIT | DUSTY      | PnL: +0.05 USD (+4.3%) | Ekuitas: $11.40 (-8.8%) | WR: 12W/16L (42%)
+🏁 [16:29:34] [V6_DYNAMIC_25_OLD   ] 🛡️ BREAKEVEN PROFIT | DUSTY      | PnL: +0.12 USD (+4.3%) | Ekuitas: $10.61 (-15.1%) | WR: 12W/16L (42%)
+
+========================================================================================================================
+🏆 KLASEMEN BOT QUANT V6.0 (STEPPED $3->$6->$12 vs DYNAMIC) | Durasi: 20.54 Jam | 2026-10-21 16:30:59 UTC (23:30 WIB)
+🌐 Sesi Aktif: S3_NEWYORK | SOL: $108.33 (m5: -0.0%, h1: -0.1%)
+------------------------------------------------------------------------------------------------------------------------
+METODE VARIAN          | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | TIER/POS
+------------------------------------------------------------------------------------------------------------------------
+V6_STEPPED_VORTEX      | $11.44     |     -8.5% |  11W/16 L  |   40.7%   | 0.75x         |  -11.9%  | T1 / 1Pos
+V6_STEPPED_BARBELL     | $11.40     |     -8.8% |  12W/16 L  |   42.9%   | 0.75x         |  -12.3%  | T1 / 0Pos
+V6_FRACTAL_FORTRESS    | $10.74     |    -14.1% |  11W/14 L  |   44.0%   | 0.62x         |  -16.0%  | T0 / 0Pos
+V6_DYNAMIC_25_OLD      | $10.61     |    -15.1% |  12W/16 L  |   42.9%   | 0.72x         |  -20.8%  | DYN / 0Pos
+========================================================================================================================
+
