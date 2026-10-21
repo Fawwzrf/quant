@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 20.5553,
-  "updated_at": "2026-10-21 16:32:11 UTC",
+  "accumulated_hours": 20.8087,
+  "updated_at": "2026-10-21 16:47:23 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 11.4,
@@ -43,32 +43,17 @@
       "watchlist_count": 0
     },
     "V6_STEPPED_VORTEX": {
-      "equity": 11.44,
+      "equity": 10.36,
       "hwm": 13.13,
-      "max_dd": -11.9,
+      "max_dd": -17.1,
       "tier": 1,
       "wins": 11,
-      "losses": 16,
+      "losses": 17,
       "gross_profit": 3.2448,
-      "gross_loss": 4.3027,
-      "consec_losses": 1,
-      "cooldown_until": 1792601494.8334343,
-      "positions": {
-        "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm": {
-          "symbol": "DUSTY",
-          "token_addr": "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm",
-          "pair_addr": "4kF28ZDw2xXBvxYvnQ6fmEJUrrEd44mgpbnrxnizycZU",
-          "entry_price": 0.0002316,
-          "highest_price": 0.0002674,
-          "entry_liq": 70780.11,
-          "initial_alloc": 1.12,
-          "remaining_alloc": 1.12,
-          "realized_pnl": 0.0,
-          "entry_time": 1792599851.6149368,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 5.3863,
+      "consec_losses": 2,
+      "cooldown_until": 1792603990.6152368,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7083073,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792495042.7568562,
@@ -92,18 +77,19 @@
         "tZPasooEK7iJALGUkCSBnMmviyXZtxHtJmXaw5Epump": 1792585114.4178288,
         "FrtbBAaSZksfh4oV46E7Pvb43QiiUmYLD3dcGS6gpump": 1792598506.757522,
         "G6AjY7RnwoxU7UPUh5ru53Xgv9qGLKfR4va8nsJZpump": 1792599851.13634,
-        "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump": 1792599994.8334343
+        "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump": 1792599994.8334343,
+        "DUSTYFwWQhfYXC9zqx59K3T9cnKvWNm9LtUqNnY1AWQm": 1792600390.6152368
       },
       "watchlist_count": 0
     },
     "V6_FRACTAL_FORTRESS": {
-      "equity": 10.74,
+      "equity": 10.77,
       "hwm": 13.6,
       "max_dd": -16.0,
       "tier": 0,
-      "wins": 11,
+      "wins": 12,
       "losses": 14,
-      "gross_profit": 2.8285,
+      "gross_profit": 2.858,
       "gross_loss": 4.5626,
       "consec_losses": 0,
       "cooldown_until": 1792595914.4178796,
@@ -129,7 +115,8 @@
         "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": 1792560000.1767693,
         "7wY4rfVsUcNcwKcrLw6CHazzXw4bihcwP73ynj6jpump": 1792560552.099683,
         "tZPasooEK7iJALGUkCSBnMmviyXZtxHtJmXaw5Epump": 1792585114.4178796,
-        "G6AjY7RnwoxU7UPUh5ru53Xgv9qGLKfR4va8nsJZpump": 1792599851.1363845
+        "G6AjY7RnwoxU7UPUh5ru53Xgv9qGLKfR4va8nsJZpump": 1792599851.1363845,
+        "Cf6tUsfyQSracZjuKNFMBAGPeskUpGYdjfM5Qn3Lpump": 1792601134.6785998
       },
       "watchlist_count": 0
     },
