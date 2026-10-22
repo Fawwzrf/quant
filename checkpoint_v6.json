@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 30.6294,
-  "updated_at": "2026-10-22 13:27:34 UTC",
+  "accumulated_hours": 30.8827,
+  "updated_at": "2026-10-22 13:42:46 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 10.81,
@@ -13,7 +13,22 @@
       "gross_loss": 5.3841,
       "consec_losses": 5,
       "cooldown_until": 1792674082.1908882,
-      "positions": {},
+      "positions": {
+        "635BZjhhzBvn7EsErsL3ABMRmfsfEjGi8YJTCia9pump": {
+          "symbol": "VECTOR",
+          "token_addr": "635BZjhhzBvn7EsErsL3ABMRmfsfEjGi8YJTCia9pump",
+          "pair_addr": "92KgVDBs9TSRBX5XxYJRczFRsawA4sLTaKWnMDAJfWA1",
+          "entry_price": 0.0002763,
+          "highest_price": 0.0003075,
+          "entry_liq": 48032.88,
+          "initial_alloc": 1.5,
+          "remaining_alloc": 1.5,
+          "realized_pnl": 0.0,
+          "entry_time": 1792676302.5353417,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
@@ -150,7 +165,22 @@
       "gross_loss": 9.1646,
       "consec_losses": 5,
       "cooldown_until": 1792674082.1912127,
-      "positions": {},
+      "positions": {
+        "635BZjhhzBvn7EsErsL3ABMRmfsfEjGi8YJTCia9pump": {
+          "symbol": "VECTOR",
+          "token_addr": "635BZjhhzBvn7EsErsL3ABMRmfsfEjGi8YJTCia9pump",
+          "pair_addr": "92KgVDBs9TSRBX5XxYJRczFRsawA4sLTaKWnMDAJfWA1",
+          "entry_price": 0.0002763,
+          "highest_price": 0.0003075,
+          "entry_liq": 48032.88,
+          "initial_alloc": 2.33,
+          "remaining_alloc": 2.33,
+          "realized_pnl": 0.0,
+          "entry_time": 1792676302.5354505,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
