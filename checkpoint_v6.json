@@ -1,18 +1,18 @@
 {
-  "accumulated_hours": 27.0859,
-  "updated_at": "2026-10-22 04:29:30 UTC",
+  "accumulated_hours": 27.336,
+  "updated_at": "2026-10-22 10:09:58 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 10.99,
+      "equity": 10.81,
       "hwm": 13.14,
-      "max_dd": -12.3,
+      "max_dd": -13.5,
       "tier": 1,
       "wins": 16,
-      "losses": 21,
+      "losses": 22,
       "gross_profit": 3.7071,
-      "gross_loss": 5.2037,
-      "consec_losses": 4,
-      "cooldown_until": 1792644761.6601038,
+      "gross_loss": 5.3841,
+      "consec_losses": 5,
+      "cooldown_until": 1792674082.1908882,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
@@ -47,7 +47,8 @@
         "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792625441.550059,
         "3ApPzYXE6TRKgEVcVdvy7tqf1DkqUhudGxuwzY1bpump": 1792627613.541456,
         "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": 1792633925.6807013,
-        "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792633961.6601038
+        "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792633961.6601038,
+        "4vT4trZuQpoPxBAKNwBF4gVhZdy6UCUqxeeYNmuQtfQd": 1792663282.1908882
       },
       "watchlist_count": 0
     },
@@ -135,16 +136,16 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 9.69,
+      "equity": 9.3,
       "hwm": 12.9,
-      "max_dd": -22.5,
+      "max_dd": -25.6,
       "tier": 1,
       "wins": 16,
-      "losses": 21,
+      "losses": 22,
       "gross_profit": 5.9676,
-      "gross_loss": 8.7749,
-      "consec_losses": 4,
-      "cooldown_until": 1792644761.660539,
+      "gross_loss": 9.1646,
+      "consec_losses": 5,
+      "cooldown_until": 1792674082.1912127,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
@@ -179,7 +180,8 @@
         "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792625441.5504959,
         "3ApPzYXE6TRKgEVcVdvy7tqf1DkqUhudGxuwzY1bpump": 1792627613.5418363,
         "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": 1792633925.6812065,
-        "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792633961.660539
+        "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792633961.660539,
+        "4vT4trZuQpoPxBAKNwBF4gVhZdy6UCUqxeeYNmuQtfQd": 1792663282.1912127
       },
       "watchlist_count": 0
     }
