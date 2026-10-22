@@ -1,18 +1,18 @@
 {
-  "accumulated_hours": 22.6789,
-  "updated_at": "2026-10-22 00:05:05 UTC",
+  "accumulated_hours": 22.9322,
+  "updated_at": "2026-10-22 00:20:17 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 11.41,
+      "equity": 11.23,
       "hwm": 13.14,
       "max_dd": -12.3,
       "tier": 1,
       "wins": 16,
-      "losses": 18,
+      "losses": 19,
       "gross_profit": 3.7071,
-      "gross_loss": 4.7902,
-      "consec_losses": 1,
-      "cooldown_until": 1792626941.550059,
+      "gross_loss": 4.9689,
+      "consec_losses": 2,
+      "cooldown_until": 1792631213.541456,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
@@ -44,7 +44,8 @@
         "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602490.6308098,
         "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624361.568042,
         "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1792625213.525499,
-        "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792625441.550059
+        "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792625441.550059,
+        "3ApPzYXE6TRKgEVcVdvy7tqf1DkqUhudGxuwzY1bpump": 1792627613.541456
       },
       "watchlist_count": 0
     },
@@ -130,16 +131,16 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 10.62,
+      "equity": 10.2,
       "hwm": 12.9,
       "max_dd": -20.8,
       "tier": 1,
       "wins": 16,
-      "losses": 18,
+      "losses": 19,
       "gross_profit": 5.9676,
-      "gross_loss": 7.8447,
-      "consec_losses": 1,
-      "cooldown_until": 1792626941.5504959,
+      "gross_loss": 8.2674,
+      "consec_losses": 2,
+      "cooldown_until": 1792631213.5418363,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
@@ -171,7 +172,8 @@
         "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602490.6311285,
         "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624361.568426,
         "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1792625213.5258777,
-        "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792625441.5504959
+        "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792625441.5504959,
+        "3ApPzYXE6TRKgEVcVdvy7tqf1DkqUhudGxuwzY1bpump": 1792627613.5418363
       },
       "watchlist_count": 0
     }
