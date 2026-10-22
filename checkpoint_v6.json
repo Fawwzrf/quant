@@ -1,34 +1,19 @@
 {
-  "accumulated_hours": 33.2603,
-  "updated_at": "2026-10-22 21:30:59 UTC",
+  "accumulated_hours": 33.5115,
+  "updated_at": "2026-10-22 21:46:04 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 10.8,
+      "equity": 10.63,
       "hwm": 13.14,
-      "max_dd": -13.6,
+      "max_dd": -15.0,
       "tier": 1,
       "wins": 16,
-      "losses": 24,
+      "losses": 25,
       "gross_profit": 3.7071,
-      "gross_loss": 5.398,
-      "consec_losses": 7,
-      "cooldown_until": 1792687738.3454323,
-      "positions": {
-        "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": {
-          "symbol": "BTC",
-          "token_addr": "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump",
-          "pair_addr": "4UPijxPh3AcSHtXzLFHSjbDibZUNnFFYVhzTjpCqDBbH",
-          "entry_price": 0.0005487,
-          "highest_price": 0.0005711,
-          "entry_liq": 63460.43,
-          "initial_alloc": 1.12,
-          "remaining_alloc": 1.12,
-          "realized_pnl": 0.0,
-          "entry_time": 1792704155.9361663,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 5.5721,
+      "consec_losses": 8,
+      "cooldown_until": 1792715699.4813056,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
@@ -65,7 +50,8 @@
         "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792633961.6601038,
         "4vT4trZuQpoPxBAKNwBF4gVhZdy6UCUqxeeYNmuQtfQd": 1792663282.1908882,
         "635BZjhhzBvn7EsErsL3ABMRmfsfEjGi8YJTCia9pump": 1792676794.3881905,
-        "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": 1792676938.3454323
+        "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": 1792676938.3454323,
+        "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792704899.4813056
       },
       "watchlist_count": 0
     },
@@ -158,32 +144,17 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 9.27,
+      "equity": 8.91,
       "hwm": 12.9,
-      "max_dd": -25.8,
+      "max_dd": -28.7,
       "tier": 1,
       "wins": 16,
-      "losses": 24,
+      "losses": 25,
       "gross_profit": 5.9676,
-      "gross_loss": 9.1862,
-      "consec_losses": 7,
-      "cooldown_until": 1792687738.345672,
-      "positions": {
-        "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": {
-          "symbol": "BTC",
-          "token_addr": "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump",
-          "pair_addr": "4UPijxPh3AcSHtXzLFHSjbDibZUNnFFYVhzTjpCqDBbH",
-          "entry_price": 0.0005487,
-          "highest_price": 0.0005711,
-          "entry_liq": 63460.43,
-          "initial_alloc": 2.32,
-          "remaining_alloc": 2.32,
-          "realized_pnl": 0.0,
-          "entry_time": 1792704155.9363213,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 9.5469,
+      "consec_losses": 8,
+      "cooldown_until": 1792715699.4817588,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
@@ -220,7 +191,8 @@
         "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792633961.660539,
         "4vT4trZuQpoPxBAKNwBF4gVhZdy6UCUqxeeYNmuQtfQd": 1792663282.1912127,
         "635BZjhhzBvn7EsErsL3ABMRmfsfEjGi8YJTCia9pump": 1792676794.388454,
-        "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": 1792676938.345672
+        "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": 1792676938.345672,
+        "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792704899.4817588
       },
       "watchlist_count": 0
     }
