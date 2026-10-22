@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 33.007,
-  "updated_at": "2026-10-22 21:15:47 UTC",
+  "accumulated_hours": 33.2603,
+  "updated_at": "2026-10-22 21:30:59 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 10.8,
@@ -13,7 +13,22 @@
       "gross_loss": 5.398,
       "consec_losses": 7,
       "cooldown_until": 1792687738.3454323,
-      "positions": {},
+      "positions": {
+        "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": {
+          "symbol": "BTC",
+          "token_addr": "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump",
+          "pair_addr": "4UPijxPh3AcSHtXzLFHSjbDibZUNnFFYVhzTjpCqDBbH",
+          "entry_price": 0.0005487,
+          "highest_price": 0.0005711,
+          "entry_liq": 63460.43,
+          "initial_alloc": 1.12,
+          "remaining_alloc": 1.12,
+          "realized_pnl": 0.0,
+          "entry_time": 1792704155.9361663,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
@@ -153,7 +168,22 @@
       "gross_loss": 9.1862,
       "consec_losses": 7,
       "cooldown_until": 1792687738.345672,
-      "positions": {},
+      "positions": {
+        "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": {
+          "symbol": "BTC",
+          "token_addr": "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump",
+          "pair_addr": "4UPijxPh3AcSHtXzLFHSjbDibZUNnFFYVhzTjpCqDBbH",
+          "entry_price": 0.0005487,
+          "highest_price": 0.0005711,
+          "entry_liq": 63460.43,
+          "initial_alloc": 2.32,
+          "remaining_alloc": 2.32,
+          "realized_pnl": 0.0,
+          "entry_time": 1792704155.9363213,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
