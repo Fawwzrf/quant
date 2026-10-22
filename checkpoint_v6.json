@@ -1,48 +1,19 @@
 {
-  "accumulated_hours": 24.4523,
-  "updated_at": "2026-10-22 01:51:29 UTC",
+  "accumulated_hours": 24.7057,
+  "updated_at": "2026-10-22 02:06:42 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 11.23,
+      "equity": 10.99,
       "hwm": 13.14,
       "max_dd": -12.3,
       "tier": 1,
       "wins": 16,
-      "losses": 19,
+      "losses": 21,
       "gross_profit": 3.7071,
-      "gross_loss": 4.9689,
-      "consec_losses": 2,
-      "cooldown_until": 1792631213.541456,
-      "positions": {
-        "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": {
-          "symbol": "KIMCHIBULL",
-          "token_addr": "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump",
-          "pair_addr": "Ds6CaQYBQL7GjDATf9CVH189S9ef1mz7dkTrSoV7RWEM",
-          "entry_price": 0.004946,
-          "highest_price": 0.004946,
-          "entry_liq": 208518.32,
-          "initial_alloc": 1.5,
-          "remaining_alloc": 1.5,
-          "realized_pnl": 0.0,
-          "entry_time": 1792633301.9521902,
-          "tp1_hit": false,
-          "tp2_hit": false
-        },
-        "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": {
-          "symbol": "RETAIL",
-          "token_addr": "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be",
-          "pair_addr": "8bdu7ABGN9NHXDELpN3G2z65PFK3qQKWMrL466ZJbzwT",
-          "entry_price": 0.000554,
-          "highest_price": 0.000594,
-          "entry_liq": 65930.16,
-          "initial_alloc": 1.12,
-          "remaining_alloc": 1.12,
-          "realized_pnl": 0.0,
-          "entry_time": 1792633758.3520577,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 5.2037,
+      "consec_losses": 4,
+      "cooldown_until": 1792644761.6601038,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
@@ -74,7 +45,9 @@
         "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624361.568042,
         "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1792625213.525499,
         "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792625441.550059,
-        "3ApPzYXE6TRKgEVcVdvy7tqf1DkqUhudGxuwzY1bpump": 1792627613.541456
+        "3ApPzYXE6TRKgEVcVdvy7tqf1DkqUhudGxuwzY1bpump": 1792627613.541456,
+        "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": 1792633925.6807013,
+        "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792633961.6601038
       },
       "watchlist_count": 0
     },
@@ -120,32 +93,17 @@
       "watchlist_count": 0
     },
     "V6_FRACTAL_FORTRESS": {
-      "equity": 10.49,
+      "equity": 10.46,
       "hwm": 13.6,
-      "max_dd": -16.1,
+      "max_dd": -16.3,
       "tier": 0,
       "wins": 12,
-      "losses": 16,
+      "losses": 17,
       "gross_profit": 2.858,
-      "gross_loss": 4.85,
-      "consec_losses": 2,
-      "cooldown_until": 1792628045.5425684,
-      "positions": {
-        "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": {
-          "symbol": "KIMCHIBULL",
-          "token_addr": "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump",
-          "pair_addr": "Ds6CaQYBQL7GjDATf9CVH189S9ef1mz7dkTrSoV7RWEM",
-          "entry_price": 0.004946,
-          "highest_price": 0.004946,
-          "entry_liq": 208518.32,
-          "initial_alloc": 1.05,
-          "remaining_alloc": 1.05,
-          "realized_pnl": 0.0,
-          "entry_time": 1792633301.9523356,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 4.8829,
+      "consec_losses": 3,
+      "cooldown_until": 1792644725.681089,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
         "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792487902.6698601,
@@ -170,51 +128,23 @@
         "G6AjY7RnwoxU7UPUh5ru53Xgv9qGLKfR4va8nsJZpump": 1792599851.1363845,
         "Cf6tUsfyQSracZjuKNFMBAGPeskUpGYdjfM5Qn3Lpump": 1792601134.6785998,
         "HMm396e2kPf6GvvEp7fDYWH9MLFMmUUqAHTeeQX8pump": 1792602430.6136003,
-        "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624445.5425684
+        "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624445.5425684,
+        "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": 1792633925.681089
       },
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 10.2,
+      "equity": 9.69,
       "hwm": 12.9,
-      "max_dd": -20.8,
+      "max_dd": -22.5,
       "tier": 1,
       "wins": 16,
-      "losses": 19,
+      "losses": 21,
       "gross_profit": 5.9676,
-      "gross_loss": 8.2674,
-      "consec_losses": 2,
-      "cooldown_until": 1792631213.5418363,
-      "positions": {
-        "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": {
-          "symbol": "KIMCHIBULL",
-          "token_addr": "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump",
-          "pair_addr": "Ds6CaQYBQL7GjDATf9CVH189S9ef1mz7dkTrSoV7RWEM",
-          "entry_price": 0.004946,
-          "highest_price": 0.004946,
-          "entry_liq": 208518.32,
-          "initial_alloc": 2.55,
-          "remaining_alloc": 2.55,
-          "realized_pnl": 0.0,
-          "entry_time": 1792633301.9524305,
-          "tp1_hit": false,
-          "tp2_hit": false
-        },
-        "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": {
-          "symbol": "RETAIL",
-          "token_addr": "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be",
-          "pair_addr": "8bdu7ABGN9NHXDELpN3G2z65PFK3qQKWMrL466ZJbzwT",
-          "entry_price": 0.000554,
-          "highest_price": 0.000594,
-          "entry_liq": 65930.16,
-          "initial_alloc": 2.55,
-          "remaining_alloc": 2.55,
-          "realized_pnl": 0.0,
-          "entry_time": 1792633758.3521512,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 8.7749,
+      "consec_losses": 4,
+      "cooldown_until": 1792644761.660539,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
@@ -246,7 +176,9 @@
         "CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump": 1792624361.568426,
         "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1792625213.5258777,
         "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792625441.5504959,
-        "3ApPzYXE6TRKgEVcVdvy7tqf1DkqUhudGxuwzY1bpump": 1792627613.5418363
+        "3ApPzYXE6TRKgEVcVdvy7tqf1DkqUhudGxuwzY1bpump": 1792627613.5418363,
+        "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": 1792633925.6812065,
+        "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792633961.660539
       },
       "watchlist_count": 0
     }
