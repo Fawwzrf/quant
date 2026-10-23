@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 37.3104,
-  "updated_at": "2026-10-23 01:34:00 UTC",
+  "accumulated_hours": 37.5637,
+  "updated_at": "2026-10-23 01:49:12 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 10.34,
@@ -98,16 +98,16 @@
       "watchlist_count": 0
     },
     "V6_FRACTAL_FORTRESS": {
-      "equity": 10.26,
+      "equity": 10.11,
       "hwm": 13.6,
-      "max_dd": -19.0,
+      "max_dd": -19.1,
       "tier": 0,
       "wins": 18,
-      "losses": 24,
+      "losses": 25,
       "gross_profit": 3.7117,
-      "gross_loss": 5.9523,
-      "consec_losses": 1,
-      "cooldown_until": 1792718831.670735,
+      "gross_loss": 6.1021,
+      "consec_losses": 2,
+      "cooldown_until": 1792723583.8246393,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
@@ -144,37 +144,23 @@
         "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792716395.6558473,
         "8d3LbpJBEwcUhA5Xn2s1FUNNo2qLdzw3CQJsgtJqpump": 1792709927.5426066,
         "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump": 1792717331.670735,
-        "8JUmK89f7v4m3LxcfHdpGhEoGjrEFpkvkx9XGJnjpump": 1792714739.7112784
+        "8JUmK89f7v4m3LxcfHdpGhEoGjrEFpkvkx9XGJnjpump": 1792714739.7112784,
+        "4SUtyjYDkGGHVA68wqeNNSDv9UGirdXCfpdGHPUCpump": 1792719983.8246393
       },
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 8.81,
+      "equity": 8.79,
       "hwm": 12.9,
-      "max_dd": -29.6,
+      "max_dd": -29.7,
       "tier": 1,
-      "wins": 18,
-      "losses": 26,
-      "gross_profit": 6.2955,
-      "gross_loss": 9.975,
-      "consec_losses": 0,
-      "cooldown_until": 1792718447.6636934,
-      "positions": {
-        "44AxmzFVAjcjuczpKQNCqvUeGZFSswDEtj1mqaoppump": {
-          "symbol": " NTWRK",
-          "token_addr": "44AxmzFVAjcjuczpKQNCqvUeGZFSswDEtj1mqaoppump",
-          "pair_addr": "327mQ6QoTdpireiZmqumA49ySx8G44AGvSD9wxgcZ4UF",
-          "entry_price": 3.02e-05,
-          "highest_price": 3.124e-05,
-          "entry_liq": 13070.06,
-          "initial_alloc": 2.2,
-          "remaining_alloc": 2.2,
-          "realized_pnl": 0.0,
-          "entry_time": 1792719168.0504687,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "wins": 19,
+      "losses": 27,
+      "gross_profit": 6.6096,
+      "gross_loss": 10.3098,
+      "consec_losses": 1,
+      "cooldown_until": 1792721483.825078,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
@@ -214,7 +200,9 @@
         "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": 1792676938.345672,
         "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792716431.6069312,
         "8d3LbpJBEwcUhA5Xn2s1FUNNo2qLdzw3CQJsgtJqpump": 1792716947.6636934,
-        "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump": 1792718759.6450977
+        "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump": 1792718759.6450977,
+        "44AxmzFVAjcjuczpKQNCqvUeGZFSswDEtj1mqaoppump": 1792719479.845727,
+        "4SUtyjYDkGGHVA68wqeNNSDv9UGirdXCfpdGHPUCpump": 1792719983.825078
       },
       "watchlist_count": 0
     }
