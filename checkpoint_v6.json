@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 45.3613,
-  "updated_at": "2026-10-23 22:31:03 UTC",
+  "accumulated_hours": 45.6146,
+  "updated_at": "2026-10-23 22:46:15 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 10.24,
@@ -163,32 +163,17 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 6.52,
+      "equity": 6.19,
       "hwm": 12.9,
-      "max_dd": -48.0,
+      "max_dd": -50.5,
       "tier": 1,
       "wins": 21,
-      "losses": 32,
+      "losses": 33,
       "gross_profit": 7.2633,
-      "gross_loss": 13.2304,
-      "consec_losses": 0,
-      "cooldown_until": 1792793618.8527792,
-      "positions": {
-        "2Nyb2GXVoXM42hVQxJg5RppTbiN5SCZFL4LtZVVDpump": {
-          "symbol": "Peekhole",
-          "token_addr": "2Nyb2GXVoXM42hVQxJg5RppTbiN5SCZFL4LtZVVDpump",
-          "pair_addr": "G5t63jxfLoSYapfVYsTQn1WWqm7YX9wbZ7xNFFoUtczF",
-          "entry_price": 0.0001154,
-          "highest_price": 0.0001189,
-          "entry_liq": 28305.55,
-          "initial_alloc": 1.62,
-          "remaining_alloc": 1.62,
-          "realized_pnl": 0.0,
-          "entry_time": 1792794307.9130566,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 13.5569,
+      "consec_losses": 1,
+      "cooldown_until": 1792796234.9310164,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
@@ -237,7 +222,8 @@
         "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": 1792760356.8514142,
         "E8YeG61gTkBADYtnPcobeyMe6iBwbx5MkUGyNyhxpump": 1792787498.8507645,
         "AVKYgzccwrWTNtW2ejz3VRthG3UYsVMmJ5piVEhzpump": 1792790018.8527792,
-        "6bW6xsZxYqcvqabk9rRgQwgjPNwe8SACPusx5o1wpump": 1792794506.9519415
+        "6bW6xsZxYqcvqabk9rRgQwgjPNwe8SACPusx5o1wpump": 1792794506.9519415,
+        "2Nyb2GXVoXM42hVQxJg5RppTbiN5SCZFL4LtZVVDpump": 1792794734.9310164
       },
       "watchlist_count": 0
     }
