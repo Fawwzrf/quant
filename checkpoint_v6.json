@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 36.0437,
-  "updated_at": "2026-10-23 00:18:00 UTC",
+  "accumulated_hours": 36.297,
+  "updated_at": "2026-10-23 00:33:11 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 10.63,
@@ -98,32 +98,17 @@
       "watchlist_count": 0
     },
     "V6_FRACTAL_FORTRESS": {
-      "equity": 10.31,
+      "equity": 10.33,
       "hwm": 13.6,
       "max_dd": -19.0,
       "tier": 0,
-      "wins": 16,
+      "wins": 17,
       "losses": 23,
-      "gross_profit": 3.4757,
+      "gross_profit": 3.4933,
       "gross_loss": 5.6575,
       "consec_losses": 0,
       "cooldown_until": 1792713527.5426066,
-      "positions": {
-        "8JUmK89f7v4m3LxcfHdpGhEoGjrEFpkvkx9XGJnjpump": {
-          "symbol": "SUKI",
-          "token_addr": "8JUmK89f7v4m3LxcfHdpGhEoGjrEFpkvkx9XGJnjpump",
-          "pair_addr": "23uoFsC33ensne3owr1o2gDR7TVfTpcoeiJY1Fb58Zcq",
-          "entry_price": 0.0001811,
-          "highest_price": 0.0001811,
-          "entry_liq": 35878.75,
-          "initial_alloc": 1.03,
-          "remaining_alloc": 1.03,
-          "realized_pnl": 0.0,
-          "entry_time": 1792714464.038045,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
         "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792487902.6698601,
@@ -158,7 +143,8 @@
         "CZyST5MCRUPD8iwoQnhXozz2wLbH8uuVJy6Kn3pgpump": 1792706315.56114,
         "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792706759.6366174,
         "8d3LbpJBEwcUhA5Xn2s1FUNNo2qLdzw3CQJsgtJqpump": 1792709927.5426066,
-        "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump": 1792713647.726524
+        "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump": 1792713647.726524,
+        "8JUmK89f7v4m3LxcfHdpGhEoGjrEFpkvkx9XGJnjpump": 1792714739.7112784
       },
       "watchlist_count": 0
     },
