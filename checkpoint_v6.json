@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 41.7174,
-  "updated_at": "2026-10-23 13:26:53 UTC",
+  "accumulated_hours": 41.9708,
+  "updated_at": "2026-10-23 13:42:05 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 10.66,
@@ -13,7 +13,22 @@
       "gross_loss": 6.0225,
       "consec_losses": 0,
       "cooldown_until": 1792759396.8532357,
-      "positions": {},
+      "positions": {
+        "6V8ZLegByoWKpRCmfFtpK5mvMbZ5wFTSaajhr5Ckpump": {
+          "symbol": "Trace",
+          "token_addr": "6V8ZLegByoWKpRCmfFtpK5mvMbZ5wFTSaajhr5Ckpump",
+          "pair_addr": "8c3d6yEpHVKyzKMFbWrSJvuKRggqhNiwbEWLENFNv6hd",
+          "entry_price": 6.742e-05,
+          "highest_price": 0.0001581,
+          "entry_liq": 21346.18,
+          "initial_alloc": 1.06,
+          "remaining_alloc": 0.212,
+          "realized_pnl": 0.2526,
+          "entry_time": 1792762433.1600082,
+          "tp1_hit": true,
+          "tp2_hit": true
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
