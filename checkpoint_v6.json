@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 35.7903,
-  "updated_at": "2026-10-23 00:02:47 UTC",
+  "accumulated_hours": 36.0437,
+  "updated_at": "2026-10-23 00:18:00 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 10.63,
@@ -108,7 +108,22 @@
       "gross_loss": 5.6575,
       "consec_losses": 0,
       "cooldown_until": 1792713527.5426066,
-      "positions": {},
+      "positions": {
+        "8JUmK89f7v4m3LxcfHdpGhEoGjrEFpkvkx9XGJnjpump": {
+          "symbol": "SUKI",
+          "token_addr": "8JUmK89f7v4m3LxcfHdpGhEoGjrEFpkvkx9XGJnjpump",
+          "pair_addr": "23uoFsC33ensne3owr1o2gDR7TVfTpcoeiJY1Fb58Zcq",
+          "entry_price": 0.0001811,
+          "highest_price": 0.0001811,
+          "entry_liq": 35878.75,
+          "initial_alloc": 1.03,
+          "remaining_alloc": 1.03,
+          "realized_pnl": 0.0,
+          "entry_time": 1792714464.038045,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792486954.7710114,
         "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792487902.6698601,
