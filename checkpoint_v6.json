@@ -1,32 +1,32 @@
 {
-  "accumulated_hours": 41.9708,
-  "updated_at": "2026-10-23 13:42:05 UTC",
+  "accumulated_hours": 42.2241,
+  "updated_at": "2026-10-23 13:57:17 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 10.66,
+      "equity": 11.35,
       "hwm": 13.14,
       "max_dd": -18.6,
-      "tier": 0,
-      "wins": 18,
+      "tier": 1,
+      "wins": 21,
       "losses": 27,
-      "gross_profit": 4.1865,
+      "gross_profit": 4.8665,
       "gross_loss": 6.0225,
       "consec_losses": 0,
       "cooldown_until": 1792759396.8532357,
       "positions": {
-        "6V8ZLegByoWKpRCmfFtpK5mvMbZ5wFTSaajhr5Ckpump": {
-          "symbol": "Trace",
-          "token_addr": "6V8ZLegByoWKpRCmfFtpK5mvMbZ5wFTSaajhr5Ckpump",
-          "pair_addr": "8c3d6yEpHVKyzKMFbWrSJvuKRggqhNiwbEWLENFNv6hd",
-          "entry_price": 6.742e-05,
-          "highest_price": 0.0001581,
-          "entry_liq": 21346.18,
-          "initial_alloc": 1.06,
-          "remaining_alloc": 0.212,
-          "realized_pnl": 0.2526,
-          "entry_time": 1792762433.1600082,
-          "tp1_hit": true,
-          "tp2_hit": true
+        "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": {
+          "symbol": "McNugget",
+          "token_addr": "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump",
+          "pair_addr": "D2krLXfaRYqiD8oWT2KUtynnXAUWYPC3GtZFcghqLfjg",
+          "entry_price": 0.0009341,
+          "highest_price": 0.00105,
+          "entry_liq": 83561.11,
+          "initial_alloc": 1.5,
+          "remaining_alloc": 1.5,
+          "realized_pnl": 0.0,
+          "entry_time": 1792763621.2151184,
+          "tp1_hit": false,
+          "tp2_hit": false
         }
       },
       "token_history": {
@@ -69,7 +69,10 @@
         "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792716491.6848943,
         "3G4FxTgwhaeK3rzvojWNnnZ17acLKy3BjUj9Abzvpump": 1792748596.8532357,
         "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": 1792760356.8511558,
-        "EseixJpngT2z1prgmpd8kUz71kACKiRjkbQHxWELpump": 1792761388.9264765
+        "EseixJpngT2z1prgmpd8kUz71kACKiRjkbQHxWELpump": 1792761388.9264765,
+        "6V8ZLegByoWKpRCmfFtpK5mvMbZ5wFTSaajhr5Ckpump": 1792763044.897489,
+        "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump": 1792763320.9453936,
+        "FWz2EY9qhMpLeKYUgunVbfj6pNSbX3Nq3KnGE9whpump": 1792763488.8807077
       },
       "watchlist_count": 0
     },
