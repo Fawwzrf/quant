@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 40.9574,
-  "updated_at": "2026-10-23 12:41:16 UTC",
+  "accumulated_hours": 41.2108,
+  "updated_at": "2026-10-23 12:56:29 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 10.18,
@@ -13,7 +13,22 @@
       "gross_loss": 6.0225,
       "consec_losses": 10,
       "cooldown_until": 1792759396.8532357,
-      "positions": {},
+      "positions": {
+        "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": {
+          "symbol": "McNugget",
+          "token_addr": "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump",
+          "pair_addr": "D2krLXfaRYqiD8oWT2KUtynnXAUWYPC3GtZFcghqLfjg",
+          "entry_price": 0.0002927,
+          "highest_price": 0.0004515,
+          "entry_liq": 45573.61,
+          "initial_alloc": 1.02,
+          "remaining_alloc": 0.204,
+          "realized_pnl": 0.2446,
+          "entry_time": 1792759661.150894,
+          "tp1_hit": true,
+          "tp2_hit": true
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
@@ -152,17 +167,32 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 8.35,
+      "equity": 8.0,
       "hwm": 12.9,
-      "max_dd": -33.2,
+      "max_dd": -36.0,
       "tier": 1,
       "wins": 19,
-      "losses": 29,
+      "losses": 30,
       "gross_profit": 6.6096,
-      "gross_loss": 10.7528,
-      "consec_losses": 3,
-      "cooldown_until": 1792759528.7770677,
-      "positions": {},
+      "gross_loss": 11.1029,
+      "consec_losses": 4,
+      "cooldown_until": 1792770532.895071,
+      "positions": {
+        "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": {
+          "symbol": "McNugget",
+          "token_addr": "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump",
+          "pair_addr": "D2krLXfaRYqiD8oWT2KUtynnXAUWYPC3GtZFcghqLfjg",
+          "entry_price": 0.0002927,
+          "highest_price": 0.0004515,
+          "entry_liq": 45573.61,
+          "initial_alloc": 2.09,
+          "remaining_alloc": 0.418,
+          "realized_pnl": 0.5013,
+          "entry_time": 1792759661.151023,
+          "tp1_hit": true,
+          "tp2_hit": true
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
@@ -206,7 +236,8 @@
         "44AxmzFVAjcjuczpKQNCqvUeGZFSswDEtj1mqaoppump": 1792719479.845727,
         "4SUtyjYDkGGHVA68wqeNNSDv9UGirdXCfpdGHPUCpump": 1792719983.825078,
         "3G4FxTgwhaeK3rzvojWNnnZ17acLKy3BjUj9Abzvpump": 1792748596.8535762,
-        "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump": 1792748728.7770677
+        "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump": 1792748728.7770677,
+        "217NMz7ia83i8Y6ezVBeTsEfhpuxBUCLj9RygjTSpump": 1792759732.895071
       },
       "watchlist_count": 0
     }
