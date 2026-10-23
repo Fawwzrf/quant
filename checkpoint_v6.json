@@ -1,34 +1,19 @@
 {
-  "accumulated_hours": 42.9842,
-  "updated_at": "2026-10-23 14:42:53 UTC",
+  "accumulated_hours": 43.2374,
+  "updated_at": "2026-10-23 14:58:05 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
-      "equity": 11.34,
+      "equity": 11.73,
       "hwm": 13.14,
       "max_dd": -18.6,
       "tier": 1,
-      "wins": 22,
+      "wins": 23,
       "losses": 28,
-      "gross_profit": 5.1036,
+      "gross_profit": 5.4968,
       "gross_loss": 6.2716,
       "consec_losses": 0,
       "cooldown_until": 1792765684.9398205,
-      "positions": {
-        "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump": {
-          "symbol": "ODIE",
-          "token_addr": "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump",
-          "pair_addr": "DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs",
-          "entry_price": 0.002414,
-          "highest_price": 0.00351,
-          "entry_liq": 144080.42,
-          "initial_alloc": 1.5,
-          "remaining_alloc": 0.3,
-          "realized_pnl": 0.2999,
-          "entry_time": 1792766117.3693225,
-          "tp1_hit": true,
-          "tp2_hit": true
-        }
-      },
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
@@ -71,7 +56,7 @@
         "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": 1792764556.9089036,
         "EseixJpngT2z1prgmpd8kUz71kACKiRjkbQHxWELpump": 1792761388.9264765,
         "6V8ZLegByoWKpRCmfFtpK5mvMbZ5wFTSaajhr5Ckpump": 1792763044.897489,
-        "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump": 1792763320.9453936,
+        "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump": 1792766608.9502304,
         "FWz2EY9qhMpLeKYUgunVbfj6pNSbX3Nq3KnGE9whpump": 1792763488.8807077,
         "FiYTnrwt6CPmWQyWY4evBLK5Lu21jJSRHPYtX4Aepump": 1792764184.9398205
       },
