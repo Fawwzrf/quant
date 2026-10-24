@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 51.5403,
-  "updated_at": "2026-10-24 10:07:19 UTC",
+  "accumulated_hours": 51.7937,
+  "updated_at": "2026-10-24 10:22:31 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 9.99,
@@ -176,7 +176,22 @@
       "gross_loss": 15.2242,
       "consec_losses": 3,
       "cooldown_until": 1792837219.187635,
-      "positions": {},
+      "positions": {
+        "3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump": {
+          "symbol": "TRUMP",
+          "token_addr": "3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump",
+          "pair_addr": "7Yk7UAsViEvP5wkyfapAFS7KySmCnJtpvamxmCMKiavU",
+          "entry_price": 0.0007355,
+          "highest_price": 0.0007355,
+          "entry_liq": 76512.16,
+          "initial_alloc": 1.24,
+          "remaining_alloc": 1.24,
+          "realized_pnl": 0.0,
+          "entry_time": 1792837339.418308,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
