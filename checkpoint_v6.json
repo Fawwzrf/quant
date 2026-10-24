@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 48.7569,
-  "updated_at": "2026-10-24 01:54:47 UTC",
+  "accumulated_hours": 49.007,
+  "updated_at": "2026-10-24 07:35:19 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 9.98,
@@ -164,32 +164,17 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 5.37,
+      "equity": 4.95,
       "hwm": 12.9,
-      "max_dd": -57.0,
+      "max_dd": -60.4,
       "tier": 1,
       "wins": 23,
-      "losses": 37,
+      "losses": 38,
       "gross_profit": 7.6791,
-      "gross_loss": 14.8039,
-      "consec_losses": 2,
-      "cooldown_until": 1792810162.4045205,
-      "positions": {
-        "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump": {
-          "symbol": "YMB",
-          "token_addr": "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump",
-          "pair_addr": "BcbQfEr3NKp8tJfbCmveqSS1o87npjfSbxuuLDSHwpsU",
-          "entry_price": 0.0004267,
-          "highest_price": 0.0004714,
-          "entry_liq": 70500.3,
-          "initial_alloc": 1.42,
-          "remaining_alloc": 1.42,
-          "realized_pnl": 0.0,
-          "entry_time": 1792806406.5261984,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 15.2242,
+      "consec_losses": 3,
+      "cooldown_until": 1792837219.187635,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
@@ -243,7 +228,7 @@
         "FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo": 1792796558.9151568,
         "4f7UgLCxDKXB48FLp4hrM8TSfQpvvikeaeb3UByupump": 1792798262.9655623,
         "9ucwvjLyN25PoQVe98LYLrKjxfkA98sx1tzdNLNeNeS": 1792798262.9656708,
-        "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump": 1792802318.955456,
+        "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump": 1792826419.187635,
         "Biiv46yBzZwwdg3HvYQ52yPXmnMb5EnF8dboTx2qpump": 1792804462.3398566,
         "FUMMypMwEQqvx2zNXBA5gororx5nEjPtV9WUPxN8kRuu": 1792806562.4045205
       },
