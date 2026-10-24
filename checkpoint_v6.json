@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 51.7937,
-  "updated_at": "2026-10-24 10:22:31 UTC",
+  "accumulated_hours": 52.047,
+  "updated_at": "2026-10-24 10:37:43 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 9.99,
@@ -13,7 +13,22 @@
       "gross_loss": 8.479,
       "consec_losses": 1,
       "cooldown_until": 1792836763.2479887,
-      "positions": {},
+      "positions": {
+        "3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump": {
+          "symbol": "TRUMP",
+          "token_addr": "3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump",
+          "pair_addr": "7Yk7UAsViEvP5wkyfapAFS7KySmCnJtpvamxmCMKiavU",
+          "entry_price": 0.0007292,
+          "highest_price": 0.0007292,
+          "entry_liq": 76340.34,
+          "initial_alloc": 1.0,
+          "remaining_alloc": 1.0,
+          "realized_pnl": 0.0,
+          "entry_time": 1792838203.5611827,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
@@ -166,32 +181,17 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 4.95,
+      "equity": 4.9,
       "hwm": 12.9,
-      "max_dd": -60.4,
+      "max_dd": -60.8,
       "tier": 1,
       "wins": 23,
-      "losses": 38,
+      "losses": 39,
       "gross_profit": 7.6791,
-      "gross_loss": 15.2242,
-      "consec_losses": 3,
-      "cooldown_until": 1792837219.187635,
-      "positions": {
-        "3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump": {
-          "symbol": "TRUMP",
-          "token_addr": "3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump",
-          "pair_addr": "7Yk7UAsViEvP5wkyfapAFS7KySmCnJtpvamxmCMKiavU",
-          "entry_price": 0.0007355,
-          "highest_price": 0.0007355,
-          "entry_liq": 76512.16,
-          "initial_alloc": 1.24,
-          "remaining_alloc": 1.24,
-          "realized_pnl": 0.0,
-          "entry_time": 1792837339.418308,
-          "tp1_hit": false,
-          "tp2_hit": false
-        }
-      },
+      "gross_loss": 15.2697,
+      "consec_losses": 4,
+      "cooldown_until": 1792848427.2498622,
+      "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8465629,
@@ -247,7 +247,8 @@
         "9ucwvjLyN25PoQVe98LYLrKjxfkA98sx1tzdNLNeNeS": 1792798262.9656708,
         "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump": 1792826419.187635,
         "Biiv46yBzZwwdg3HvYQ52yPXmnMb5EnF8dboTx2qpump": 1792804462.3398566,
-        "FUMMypMwEQqvx2zNXBA5gororx5nEjPtV9WUPxN8kRuu": 1792806562.4045205
+        "FUMMypMwEQqvx2zNXBA5gororx5nEjPtV9WUPxN8kRuu": 1792806562.4045205,
+        "3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump": 1792837627.2498622
       },
       "watchlist_count": 0
     }
