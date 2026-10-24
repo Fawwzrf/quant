@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 48.6566,
-  "updated_at": "2026-10-24 01:48:46 UTC",
+  "accumulated_hours": 48.7566,
+  "updated_at": "2026-10-24 01:54:46 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 9.98,
@@ -164,42 +164,28 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 5.67,
+      "equity": 5.37,
       "hwm": 12.9,
-      "max_dd": -54.6,
+      "max_dd": -57.0,
       "tier": 1,
       "wins": 23,
-      "losses": 36,
+      "losses": 37,
       "gross_profit": 7.6791,
-      "gross_loss": 14.503,
-      "consec_losses": 1,
-      "cooldown_until": 1792805962.3398566,
+      "gross_loss": 14.8039,
+      "consec_losses": 2,
+      "cooldown_until": 1792810162.4045205,
       "positions": {
         "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump": {
           "symbol": "YMB",
           "token_addr": "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump",
           "pair_addr": "BcbQfEr3NKp8tJfbCmveqSS1o87npjfSbxuuLDSHwpsU",
           "entry_price": 0.0004267,
-          "highest_price": 0.0004701,
+          "highest_price": 0.0004714,
           "entry_liq": 70500.3,
           "initial_alloc": 1.42,
           "remaining_alloc": 1.42,
           "realized_pnl": 0.0,
           "entry_time": 1792806406.5261984,
-          "tp1_hit": false,
-          "tp2_hit": false
-        },
-        "FUMMypMwEQqvx2zNXBA5gororx5nEjPtV9WUPxN8kRuu": {
-          "symbol": "ELON",
-          "token_addr": "FUMMypMwEQqvx2zNXBA5gororx5nEjPtV9WUPxN8kRuu",
-          "pair_addr": "ETvPPimBeoPUy5gEpjiQjUpS8f1TsVzZ2MxUErwaY4vP",
-          "entry_price": 0.0002581,
-          "highest_price": 0.000259,
-          "entry_liq": 45520.32,
-          "initial_alloc": 1.42,
-          "remaining_alloc": 1.42,
-          "realized_pnl": 0.0,
-          "entry_time": 1792806406.526338,
           "tp1_hit": false,
           "tp2_hit": false
         }
@@ -258,7 +244,8 @@
         "4f7UgLCxDKXB48FLp4hrM8TSfQpvvikeaeb3UByupump": 1792798262.9655623,
         "9ucwvjLyN25PoQVe98LYLrKjxfkA98sx1tzdNLNeNeS": 1792798262.9656708,
         "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump": 1792802318.955456,
-        "Biiv46yBzZwwdg3HvYQ52yPXmnMb5EnF8dboTx2qpump": 1792804462.3398566
+        "Biiv46yBzZwwdg3HvYQ52yPXmnMb5EnF8dboTx2qpump": 1792804462.3398566,
+        "FUMMypMwEQqvx2zNXBA5gororx5nEjPtV9WUPxN8kRuu": 1792806562.4045205
       },
       "watchlist_count": 0
     }
