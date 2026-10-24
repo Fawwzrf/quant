@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 49.2603,
-  "updated_at": "2026-10-24 07:50:31 UTC",
+  "accumulated_hours": 49.5136,
+  "updated_at": "2026-10-24 08:05:43 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 9.98,
@@ -13,7 +13,22 @@
       "gross_loss": 8.3296,
       "consec_losses": 3,
       "cooldown_until": 1792809062.9651592,
-      "positions": {},
+      "positions": {
+        "FFPSPaZ6pZEeVET743ZBxAhbwQqKZhRp997dMWDNpump": {
+          "symbol": "baldcat",
+          "token_addr": "FFPSPaZ6pZEeVET743ZBxAhbwQqKZhRp997dMWDNpump",
+          "pair_addr": "6YUTVnzEnopXFEN9UFXddsEDkn1tqEon3jLzAH4cQyES",
+          "entry_price": 5.938e-05,
+          "highest_price": 5.938e-05,
+          "entry_liq": 20046.12,
+          "initial_alloc": 1.0,
+          "remaining_alloc": 1.0,
+          "realized_pnl": 0.0,
+          "entry_time": 1792829047.5240746,
+          "tp1_hit": false,
+          "tp2_hit": false
+        }
+      },
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7078896,
         "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792494946.8461409,
