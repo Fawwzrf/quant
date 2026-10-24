@@ -1,6 +1,6 @@
 {
-  "accumulated_hours": 47.8966,
-  "updated_at": "2026-10-24 01:03:10 UTC",
+  "accumulated_hours": 48.15,
+  "updated_at": "2026-10-24 01:18:22 UTC",
   "variants": {
     "V6_STEPPED_BARBELL": {
       "equity": 9.98,
@@ -164,16 +164,16 @@
       "watchlist_count": 0
     },
     "V6_DYNAMIC_25_OLD": {
-      "equity": 5.88,
+      "equity": 5.67,
       "hwm": 12.9,
-      "max_dd": -53.0,
+      "max_dd": -54.6,
       "tier": 1,
       "wins": 23,
-      "losses": 35,
+      "losses": 36,
       "gross_profit": 7.6791,
-      "gross_loss": 14.2891,
-      "consec_losses": 0,
-      "cooldown_until": 1792801862.9656708,
+      "gross_loss": 14.503,
+      "consec_losses": 1,
+      "cooldown_until": 1792805962.3398566,
       "positions": {},
       "token_history": {
         "HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd": 1792490014.7084217,
@@ -228,7 +228,8 @@
         "FxwWTze7qwWM8GMRcdyHWpocmCw8Th8QLRGETBJbeSUo": 1792796558.9151568,
         "4f7UgLCxDKXB48FLp4hrM8TSfQpvvikeaeb3UByupump": 1792798262.9655623,
         "9ucwvjLyN25PoQVe98LYLrKjxfkA98sx1tzdNLNeNeS": 1792798262.9656708,
-        "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump": 1792802318.955456
+        "2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump": 1792802318.955456,
+        "Biiv46yBzZwwdg3HvYQ52yPXmnMb5EnF8dboTx2qpump": 1792804462.3398566
       },
       "watchlist_count": 0
     }
